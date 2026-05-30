@@ -63,6 +63,8 @@ def _parse_ts(received_at: str | None) -> float:
         return 0.0
 
 
+PRIORITY_LABEL: dict[int, str] = {1: "Urgent", 2: "High", 3: "Normal", 4: "Low", 5: "Ignore"}
+
 # Human-readable names for tool calls surfaced in the card
 _TOOL_LABELS: dict[str, str] = {
     "lookup_customer": "customer records",
@@ -344,7 +346,8 @@ def main() -> None:
         approve_mark = "  ✓" if is_approved else ""
         subject      = email.get("subject", "(no subject)")
         sender       = email.get("sender_name", "—")
-        label = f"{prefix}  P{priority}   {sender}   ·   {subject[:48]}   —   {snippet[:55]}{review_flag}{approve_mark}"
+        plabel = PRIORITY_LABEL.get(priority, str(priority))
+        label = f"{prefix}  {plabel}   {sender}   ·   {subject[:48]}   —   {snippet[:55]}{review_flag}{approve_mark}"
 
         with st.expander(label, expanded=is_emergency):
             _card_header(email, category)
