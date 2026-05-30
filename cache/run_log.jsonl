@@ -1,0 +1,100 @@
+{"id": "msg_0001", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1416, "tokens_out": 183, "latency_ms": 2763}
+{"id": "msg_0002", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1374, "tokens_out": 154, "latency_ms": 2141}
+{"id": "msg_0003", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer", "check_vip"], "tokens_in": 1594, "tokens_out": 201, "latency_ms": 3076}
+{"id": "msg_0004", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1422, "tokens_out": 170, "latency_ms": 2349}
+{"id": "msg_0005", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer", "get_pricing"], "tokens_in": 2238, "tokens_out": 206, "latency_ms": 3890}
+{"id": "msg_0006", "category": "follow_up", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer", "check_vip"], "tokens_in": 1539, "tokens_out": 227, "latency_ms": 3488}
+{"id": "msg_0007", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2199, "tokens_out": 226, "latency_ms": 2860}
+{"id": "msg_0008", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2175, "tokens_out": 192, "latency_ms": 2858}
+{"id": "msg_0009", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2305, "tokens_out": 211, "latency_ms": 3386}
+{"id": "msg_0010", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2210, "tokens_out": 206, "latency_ms": 3071}
+{"id": "msg_0011", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2159, "tokens_out": 162, "latency_ms": 1986}
+{"id": "msg_0012", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2203, "tokens_out": 226, "latency_ms": 2724}
+{"id": "msg_0013", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1392, "tokens_out": 81, "latency_ms": 1023}
+{"id": "msg_0014", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2278, "tokens_out": 84, "latency_ms": 1537}
+{"id": "msg_0015", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1376, "tokens_out": 78, "latency_ms": 1036}
+{"id": "msg_0016", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2180, "tokens_out": 84, "latency_ms": 1105}
+{"id": "msg_0017", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2175, "tokens_out": 86, "latency_ms": 2277}
+{"id": "msg_0018", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2399, "tokens_out": 78, "latency_ms": 1268}
+{"id": "msg_0019", "category": "invoice", "priority": 4, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2396, "tokens_out": 154, "latency_ms": 2416}
+{"id": "msg_0020", "category": "invoice", "priority": 2, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2637, "tokens_out": 161, "latency_ms": 2360}
+{"id": "msg_0021", "category": "invoice", "priority": 4, "needs_review": true, "tools_used": ["check_vip"], "tokens_in": 1404, "tokens_out": 162, "latency_ms": 2335}
+{"id": "msg_0022", "category": "invoice", "priority": 4, "needs_review": false, "tools_used": ["check_vip"], "tokens_in": 1412, "tokens_out": 98, "latency_ms": 1228}
+{"id": "msg_0023", "category": "follow_up", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer", "check_vip"], "tokens_in": 1511, "tokens_out": 204, "latency_ms": 2457}
+{"id": "msg_0024", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer", "check_vip", "get_pricing"], "tokens_in": 2355, "tokens_out": 256, "latency_ms": 3788}
+{"id": "msg_0025", "category": "community", "priority": 3, "needs_review": true, "tools_used": ["lookup_customer", "check_vip"], "tokens_in": 1526, "tokens_out": 219, "latency_ms": 2970}
+{"id": "msg_0026", "category": "follow_up", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer", "check_vip"], "tokens_in": 1534, "tokens_out": 230, "latency_ms": 2764}
+{"id": "msg_0027", "category": "follow_up", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer", "get_pricing"], "tokens_in": 2223, "tokens_out": 209, "latency_ms": 2969}
+{"id": "msg_0028", "category": "follow_up", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1412, "tokens_out": 208, "latency_ms": 6261}
+{"id": "msg_0029", "category": "follow_up", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1385, "tokens_out": 149, "latency_ms": 1930}
+{"id": "msg_0030", "category": "follow_up", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1412, "tokens_out": 237, "latency_ms": 2970}
+{"id": "msg_0031", "category": "out_of_scope", "priority": 4, "needs_review": true, "tools_used": ["lookup_customer", "check_vip"], "tokens_in": 1521, "tokens_out": 200, "latency_ms": 2475}
+{"id": "msg_0032", "category": "out_of_scope", "priority": 4, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2295, "tokens_out": 237, "latency_ms": 3258}
+{"id": "msg_0033", "category": "out_of_scope", "priority": 4, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2245, "tokens_out": 196, "latency_ms": 2969}
+{"id": "msg_0034", "category": "community", "priority": 3, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1400, "tokens_out": 166, "latency_ms": 2559}
+{"id": "msg_0035", "category": "community", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1423, "tokens_out": 235, "latency_ms": 2867}
+{"id": "msg_0036", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer", "get_pricing"], "tokens_in": 2249, "tokens_out": 237, "latency_ms": 4403}
+{"id": "msg_0037", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2225, "tokens_out": 197, "latency_ms": 2774}
+{"id": "msg_0038", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["check_vip"], "tokens_in": 1472, "tokens_out": 206, "latency_ms": 3676}
+{"id": "msg_0039", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2175, "tokens_out": 190, "latency_ms": 2356}
+{"id": "msg_0040", "category": "follow_up", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1412, "tokens_out": 196, "latency_ms": 2660}
+{"id": "msg_0041", "category": "follow_up", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1426, "tokens_out": 221, "latency_ms": 2764}
+{"id": "msg_0042", "category": "out_of_scope", "priority": 4, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2166, "tokens_out": 218, "latency_ms": 3481}
+{"id": "msg_0043", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1356, "tokens_out": 80, "latency_ms": 1024}
+{"id": "msg_0044", "category": "invoice", "priority": 3, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2180, "tokens_out": 148, "latency_ms": 1850}
+{"id": "msg_0045", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1396, "tokens_out": 181, "latency_ms": 2558}
+{"id": "msg_0046", "category": "out_of_scope", "priority": 4, "needs_review": true, "tools_used": ["lookup_customer", "get_pricing"], "tokens_in": 2215, "tokens_out": 213, "latency_ms": 2861}
+{"id": "msg_0047", "category": "follow_up", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1394, "tokens_out": 181, "latency_ms": 2354}
+{"id": "msg_0048", "category": "out_of_scope", "priority": 4, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1424, "tokens_out": 183, "latency_ms": 2560}
+{"id": "msg_0049", "category": "community", "priority": 3, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1398, "tokens_out": 181, "latency_ms": 3492}
+{"id": "msg_0050", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1380, "tokens_out": 85, "latency_ms": 1006}
+{"id": "msg_0051", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": ["check_vip"], "tokens_in": 1447, "tokens_out": 154, "latency_ms": 2568}
+{"id": "msg_0052", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1380, "tokens_out": 195, "latency_ms": 3071}
+{"id": "msg_0053", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1376, "tokens_out": 171, "latency_ms": 5118}
+{"id": "msg_0054", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1389, "tokens_out": 194, "latency_ms": 2559}
+{"id": "msg_0055", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1387, "tokens_out": 162, "latency_ms": 3072}
+{"id": "msg_0056", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1402, "tokens_out": 188, "latency_ms": 2764}
+{"id": "msg_0057", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1417, "tokens_out": 183, "latency_ms": 2981}
+{"id": "msg_0058", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1383, "tokens_out": 159, "latency_ms": 2343}
+{"id": "msg_0059", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1362, "tokens_out": 178, "latency_ms": 2879}
+{"id": "msg_0060", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1377, "tokens_out": 167, "latency_ms": 2547}
+{"id": "msg_0061", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": [], "tokens_in": 1373, "tokens_out": 188, "latency_ms": 2662}
+{"id": "msg_0062", "category": "emergency", "priority": 1, "needs_review": true, "tools_used": ["check_vip"], "tokens_in": 1447, "tokens_out": 186, "latency_ms": 2662}
+{"id": "msg_0063", "category": "quote", "priority": 3, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2178, "tokens_out": 200, "latency_ms": 3389}
+{"id": "msg_0064", "category": "follow_up", "priority": 2, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2209, "tokens_out": 209, "latency_ms": 2653}
+{"id": "msg_0065", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer", "get_pricing"], "tokens_in": 2223, "tokens_out": 219, "latency_ms": 2966}
+{"id": "msg_0066", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["check_vip"], "tokens_in": 1471, "tokens_out": 161, "latency_ms": 2255}
+{"id": "msg_0067", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2178, "tokens_out": 160, "latency_ms": 2252}
+{"id": "msg_0068", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2193, "tokens_out": 232, "latency_ms": 3479}
+{"id": "msg_0069", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2356, "tokens_out": 188, "latency_ms": 2866}
+{"id": "msg_0070", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2169, "tokens_out": 165, "latency_ms": 2555}
+{"id": "msg_0071", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2196, "tokens_out": 223, "latency_ms": 3390}
+{"id": "msg_0072", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer", "check_vip", "get_pricing"], "tokens_in": 2326, "tokens_out": 221, "latency_ms": 3075}
+{"id": "msg_0073", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2176, "tokens_out": 200, "latency_ms": 2652}
+{"id": "msg_0074", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 3034, "tokens_out": 236, "latency_ms": 3586}
+{"id": "msg_0075", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1367, "tokens_out": 82, "latency_ms": 1023}
+{"id": "msg_0076", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2167, "tokens_out": 87, "latency_ms": 1119}
+{"id": "msg_0077", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2189, "tokens_out": 79, "latency_ms": 1235}
+{"id": "msg_0078", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2174, "tokens_out": 79, "latency_ms": 1228}
+{"id": "msg_0079", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1365, "tokens_out": 83, "latency_ms": 1024}
+{"id": "msg_0080", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2168, "tokens_out": 78, "latency_ms": 1743}
+{"id": "msg_0081", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2185, "tokens_out": 87, "latency_ms": 2453}
+{"id": "msg_0082", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2180, "tokens_out": 88, "latency_ms": 1333}
+{"id": "msg_0083", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["check_vip"], "tokens_in": 1458, "tokens_out": 77, "latency_ms": 1126}
+{"id": "msg_0084", "category": "spam", "priority": 5, "needs_review": false, "tools_used": ["get_pricing"], "tokens_in": 2158, "tokens_out": 86, "latency_ms": 2764}
+{"id": "msg_0085", "category": "invoice", "priority": 4, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2181, "tokens_out": 136, "latency_ms": 1938}
+{"id": "msg_0086", "category": "invoice", "priority": 2, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2386, "tokens_out": 197, "latency_ms": 3079}
+{"id": "msg_0087", "category": "invoice", "priority": 4, "needs_review": true, "tools_used": ["check_vip"], "tokens_in": 1415, "tokens_out": 158, "latency_ms": 2170}
+{"id": "msg_0088", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1385, "tokens_out": 77, "latency_ms": 997}
+{"id": "msg_0089", "category": "invoice", "priority": 4, "needs_review": true, "tools_used": ["check_vip", "get_pricing"], "tokens_in": 2262, "tokens_out": 124, "latency_ms": 1990}
+{"id": "msg_0090", "category": "invoice", "priority": 4, "needs_review": true, "tools_used": ["check_vip"], "tokens_in": 1813, "tokens_out": 191, "latency_ms": 2629}
+{"id": "msg_0091", "category": "follow_up", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1394, "tokens_out": 197, "latency_ms": 3168}
+{"id": "msg_0092", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1399, "tokens_out": 78, "latency_ms": 1024}
+{"id": "msg_0093", "category": "follow_up", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1383, "tokens_out": 179, "latency_ms": 2251}
+{"id": "msg_0094", "category": "quote", "priority": 2, "needs_review": true, "tools_used": ["lookup_customer", "check_vip"], "tokens_in": 1504, "tokens_out": 194, "latency_ms": 2420}
+{"id": "msg_0095", "category": "follow_up", "priority": 1, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1420, "tokens_out": 183, "latency_ms": 2597}
+{"id": "msg_0096", "category": "community", "priority": 3, "needs_review": true, "tools_used": ["lookup_customer", "check_vip"], "tokens_in": 1519, "tokens_out": 225, "latency_ms": 2662}
+{"id": "msg_0097", "category": "out_of_scope", "priority": 4, "needs_review": true, "tools_used": ["get_pricing"], "tokens_in": 2207, "tokens_out": 160, "latency_ms": 2260}
+{"id": "msg_0098", "category": "spam", "priority": 5, "needs_review": false, "tools_used": [], "tokens_in": 1364, "tokens_out": 85, "latency_ms": 1118}
+{"id": "msg_0099", "category": "out_of_scope", "priority": 4, "needs_review": true, "tools_used": [], "tokens_in": 1370, "tokens_out": 168, "latency_ms": 2356}
+{"id": "msg_0100", "category": "community", "priority": 3, "needs_review": true, "tools_used": ["lookup_customer"], "tokens_in": 1405, "tokens_out": 215, "latency_ms": 2762}

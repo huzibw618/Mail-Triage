@@ -1,0 +1,1691 @@
+[
+  {
+    "id": "msg_0001",
+    "sender_name": "Travis Wynn",
+    "sender_email": "twynn@gmail.com",
+    "subject": "RACCOON IN MY ATTIC RIGHT NOW",
+    "body": "Help. There is a raccoon in my attic and I can hear it scratching at 5am. Wife is freaking out. Address is 4500 Brainerd Rd. Can you come TODAY. Please. Will pay extra.",
+    "received_at": "2026-05-12T05:42:11Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active animal in living space (attic) causing immediate distress; homeowner requesting same-day service and willing to pay premium.",
+    "needs_review": true,
+    "customer_context": "Established customer (5 prior jobs, $1450 lifetime revenue); known to pay slowly but reliably.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Travis, we hear you \u2014 raccoons in the attic are our bread and butter. I'm flagging this as priority and will personally check our schedule this morning to see if we can get someone to 4500 Brainerd Rd today. Expect a call from me within the hour with confirmation and pricing. Hang tight."
+  },
+  {
+    "id": "msg_0002",
+    "sender_name": "Sandra Pickett",
+    "sender_email": "spickett8847@gmail.com",
+    "subject": "snake in garage HELP",
+    "body": "there is a snake in my garage. it is black with some pattern, idk. i screamed and slammed the door. how fast can you get here. 22 hilltop ln hixson",
+    "received_at": "2026-05-12T07:18:03Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active snake in living space (garage) \u2014 immediate safety concern and animal in enclosed area requires urgent response.",
+    "needs_review": true,
+    "customer_context": "New customer, Hixson address, snake in garage \u2014 no prior history.",
+    "tools_used": [],
+    "draft_reply": "Sandra, we're on it. A snake in your garage is exactly what we handle \u2014 stay clear of that door and we'll get someone out to you ASAP. Let me get you on the schedule right now. Thanks for calling Possum Patrol!"
+  },
+  {
+    "id": "msg_0003",
+    "sender_name": "Lookout Mountain Grille",
+    "sender_email": "tony@lookoutgrille.com",
+    "subject": "URGENT - rats in dry storage",
+    "body": "Skye - Tony at Lookout Grille. Found rat droppings in dry storage this morning. Health inspector comes Thursday. Need this handled today or tomorrow morning at latest. Call me 423-555-0199.",
+    "received_at": "2026-05-12T08:14:55Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active rodent infestation in commercial food-service dry storage with health inspection 48 hours away \u2014 operational and compliance crisis.",
+    "needs_review": true,
+    "customer_context": "Lookout Mountain Grille, Tony Marchetti \u2014 VIP commercial client, 52 jobs, $23.4k lifetime revenue, locked-in $450/mo contract since 2021.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip"
+    ],
+    "draft_reply": "Tony, we're on it. Rat droppings in dry storage before a health inspection is exactly what we handle. I'm calling you right now at 423-555-0199 to lock in today or first thing tomorrow \u2014 we'll get in, assess, and get you clean before Thursday. Thanks for catching this early."
+  },
+  {
+    "id": "msg_0004",
+    "sender_name": "Felicia Holcomb",
+    "sender_email": "fholcomb@gmail.com",
+    "subject": "Something died in our wall",
+    "body": "Hey Skye, it's Felicia from Crestwood. Something has clearly died inside our wall (master bedroom, north side). The smell is unbearable. Tom says it's been there a few days but I can't take it anymore. Can you come this week?",
+    "received_at": "2026-05-12T09:30:21Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Dead animal in wall creating health/odor crisis; customer is distressed and requests urgent service this week.",
+    "needs_review": true,
+    "customer_context": "Repeat customer (3 prior jobs, $925 lifetime value) from Crestwood; last service April 2026.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Felicia, I'm sorry you're dealing with that smell \u2014 it's miserable. A dead animal in the wall is definitely something we can help with. I'll get you on the schedule for this week; let me follow up with a time that works. Thanks for reaching out."
+  },
+  {
+    "id": "msg_0005",
+    "sender_name": "Marcus Wright",
+    "sender_email": "marcus@solocupbrewing.com",
+    "subject": "Skunk on the loading dock",
+    "body": "Skye \u2014 Marcus at Solo Cup Brewing. Skunk has made a home under our loading dock. Sprayed twice this week. The smell is in our beer warehouse. URGENT. Quote me whatever. Just fix it.",
+    "received_at": "2026-05-12T06:55:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active commercial safety/operational crisis: skunk under loading dock at brewery with repeated spraying contaminating product storage; health-code and revenue risk.",
+    "needs_review": true,
+    "customer_context": "VIP commercial account (5 prior jobs, $3,250 revenue, quarterly contract) \u2014 treat as priority and send written quote after the emergency visit.",
+    "tools_used": [
+      "lookup_customer",
+      "get_pricing"
+    ],
+    "draft_reply": "Marcus \u2014 we're on it. Skunk removal with spraying is $300\u2013$500, and we'll need to assess the warehouse for sanitization (usually $100\u2013$300 more). I'm pulling a crew together to get out there TODAY. I'll call you in 10 minutes to lock in the time slot and go over the plan. Thanks for the heads-up."
+  },
+  {
+    "id": "msg_0026",
+    "sender_name": "Dr. Wendy Oyelaya",
+    "sender_email": "wendy@hixsonvet.com",
+    "subject": "Referral \u2014 friend with a bird issue",
+    "body": "Hey Skye, I sent your info to a friend of mine, Cara Whitmer, who has a starling family nesting in her dryer vent. She'll be reaching out. Also, our monthly inspection is overdue \u2014 I think we missed last month. Can we reschedule? - Wendy",
+    "received_at": "2026-05-11T20:30:00Z",
+    "category": "follow_up",
+    "priority": 1,
+    "urgency_reason": "Best VIP customer with overdue monthly inspection AND a referral in motion \u2014 both need immediate attention to keep the relationship thriving.",
+    "needs_review": true,
+    "customer_context": "Dr. Wendy Oyelaya is Possum Patrol's best customer (29 jobs, $9,870 revenue, vet clinic), gets 15% off, refers everyone, and receives monthly inspections \u2014 a VIP relationship that drives both direct revenue and referrals.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip"
+    ],
+    "draft_reply": "Hey Wendy! Thank you so much for the referral \u2014 we'll take great care of Cara. And you're right, let's get your monthly inspection back on the books ASAP. I'll reach out with some open slots. You're the best, and we really appreciate everything you send our way. - Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0028",
+    "sender_name": "Hank Albrecht",
+    "sender_email": "hank.a@gmail.com",
+    "subject": "Re: Re: rats came back",
+    "body": "Hey Skye - just an update. The rats are back. The bait stations might need refilling? I emailed you 2 weeks ago about this and didn't hear back. Should we set up another visit?",
+    "received_at": "2026-05-11T22:05:00Z",
+    "category": "follow_up",
+    "priority": 1,
+    "urgency_reason": "Second unanswered email from a new customer about a recurring pest problem within warranty window (last service 2025-03-19); risk of losing account on first relationship.",
+    "needs_review": true,
+    "customer_context": "New customer (March 2025) with one prior service ($275); this is his second contact about a pest return\u2014first email went unanswered.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Hank, I'm so sorry we dropped the ball on your first email\u2014that's not how we do business. Rats coming back after a recent treatment absolutely warrants a follow-up visit at no charge to check those bait stations and figure out what's going on. Let me get you scheduled this week. Thanks for your patience, and sorry again."
+  },
+  {
+    "id": "msg_0030",
+    "sender_name": "Janet Liu",
+    "sender_email": "janet.liu.tn@outlook.com",
+    "subject": "Complaint",
+    "body": "I had service on April 22. The technician (Skye? I think it was you?) was professional but the raccoon issue has NOT been resolved \u2014 I am still hearing scratching. Per your guarantee, I'd like a re-treatment at no additional charge. Please advise.",
+    "received_at": "2026-05-11T15:30:00Z",
+    "category": "follow_up",
+    "priority": 1,
+    "urgency_reason": "Warranty re-treatment request from a 2-job customer; unresolved animal issue and guarantee claim require immediate response to prevent account loss.",
+    "needs_review": true,
+    "customer_context": "Janet Liu is a 2-job customer ($540 lifetime revenue) with last service on 11/14/2024; she's requesting a warranty re-treatment for an unresolved raccoon issue from April 22.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Hi Janet,\n\nThanks for reaching out, and I'm sorry the raccoons are still giving you trouble \u2014 that's not the Possum Patrol standard. Let's make it right. Can you give me a quick call or reply with your best time this week so I can get a technician back out to assess what's happening and re-treat at no charge per our guarantee?\n\nSkye, Possum Patrol"
+  },
+  {
+    "id": "msg_0041",
+    "sender_name": "Tabitha Greene",
+    "sender_email": "tabby.g@gmail.com",
+    "subject": "Re: Re: Re: schedule for May",
+    "body": "Skye - last email I sent was a week ago. Are you still in business? Please get back to me. We had an agreement that you'd come out the second week of May for the spring inspection and I haven't heard a thing. - Tabby Greene",
+    "received_at": "2026-05-12T15:45:00Z",
+    "category": "follow_up",
+    "priority": 1,
+    "urgency_reason": "VIP customer (9 jobs, $3K+ revenue) on third follow-up with a missed commitment; risk of losing account.",
+    "needs_review": true,
+    "customer_context": "VIP with 9 prior jobs and $3K+ history; last service Aug 2025; missed spring inspection appointment from a week ago.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Tabby \u2014 I sincerely apologize for dropping the ball on this. You're absolutely right that we had that second-week-of-May commitment, and I should have been in touch. Let me get you back on the calendar right away. Can you send me a couple of times that work best for you this week, or would you prefer I call to lock it in? Thanks for sticking with us. \u2014 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0051",
+    "sender_name": "Marcia Chen",
+    "sender_email": "marcia.chen.cha@gmail.com",
+    "subject": "Dead opossum in pool filter",
+    "body": "A dead opossum in our pool filter. I can't deal with this. Please help. 444 Whittaker Ridge Hixson. ASAP.",
+    "received_at": "2026-05-12T06:08:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Dead animal in active pool infrastructure is a health/sanitation hazard requiring immediate removal.",
+    "needs_review": true,
+    "customer_context": "New customer (no prior history in records); residential removal in Hixson.",
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": "Marcia, we've got you covered\u2014a dead opossum in your pool filter is exactly the kind of thing we handle fast. I'm flagging this as urgent and will have someone reach out within the hour to confirm access and get you scheduled today. Hang tight."
+  },
+  {
+    "id": "msg_0052",
+    "sender_name": "Jamal Reeves",
+    "sender_email": "jamalreeves@gmail.com",
+    "subject": "Bees swarming front door",
+    "body": "Wife and kids can't get in or out of the house. Massive bee swarm hanging from the porch awning. Are these honey bees? Should I call a beekeeper or you? Please advise.",
+    "received_at": "2026-05-12T07:02:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active safety risk blocking home access; family trapped; requires immediate assessment to determine if removal or beekeeper referral is needed.",
+    "needs_review": true,
+    "customer_context": "New customer with active swarm blocking home entry; need to triage whether this is a Possum Patrol removal or beekeeper referral.",
+    "tools_used": [],
+    "draft_reply": "Jamal, that's a safety issue \u2014 get your family to a back exit NOW and keep them inside. We can come assess right away. Honeybees are often best left to a local beekeeper, but if it's a different species or poses immediate danger, we'll know in minutes. Call us immediately at [phone] so we can dispatch someone today."
+  },
+  {
+    "id": "msg_0053",
+    "sender_name": "Mrs. Hannigan",
+    "sender_email": "hannigan.t@bellsouth.net",
+    "subject": "raccoon on kitchen counter",
+    "body": "There is a raccoon on my kitchen counter eating bananas. I am hiding upstairs. He is fat. Send help. Mrs. Hannigan, 22 Cliffview Dr Lookout Mountain",
+    "received_at": "2026-05-12T08:34:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "An active animal in the home's living space (kitchen) with the homeowner displaced \u2014 immediate safety and removal risk.",
+    "needs_review": true,
+    "customer_context": "New customer, no prior history. Active emergency: raccoon in kitchen, homeowner in safety.",
+    "tools_used": [],
+    "draft_reply": "Mrs. Hannigan, we're on it. Stay upstairs and keep doors closed. Our team can be at 22 Cliffview Dr within the hour. Call us at [business number] if you need us sooner or the raccoon moves. \u2014Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0054",
+    "sender_name": "East Ridge Animal Hospital",
+    "sender_email": "reception@eraah.com",
+    "subject": "Bat colony in our HVAC unit",
+    "body": "Hi, we run an animal hospital in East Ridge. We have a substantial bat colony that has taken up residence in our rooftop HVAC. We need this resolved before our health inspection on June 1. Please call to discuss. (423) 555-0188",
+    "received_at": "2026-05-12T09:11:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Commercial health-code crisis with hard deadline (June 1 inspection); bats in HVAC pose operational and regulatory risk to a medical facility.",
+    "needs_review": true,
+    "customer_context": "New commercial customer; animal hospital with regulatory deadline; high-value job with clear urgency.",
+    "tools_used": [],
+    "draft_reply": "Hi there\u2014thanks for reaching out. A bat colony in your HVAC before a health inspection is exactly the kind of urgent situation we handle. This is time-sensitive and needs a site visit to assess the best removal approach. I'll have someone call you at (423) 555-0188 today to lock in a timeline. We'll get this resolved before your June 1 deadline."
+  },
+  {
+    "id": "msg_0055",
+    "sender_name": "Diego Mahmoudi",
+    "sender_email": "diego.m.tn@gmail.com",
+    "subject": "snake in the BABY'S ROOM",
+    "body": "GUYS A SNAKE IS IN MY 8 MONTH OLD'S CRIB. she's in the other room with my wife. We need someone here NOW. I will pay anything. 800 Suck Creek Rd.",
+    "received_at": "2026-05-12T05:55:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active snake in baby's crib is a life-safety emergency requiring immediate dispatch.",
+    "needs_review": true,
+    "customer_context": "New customer, no prior records; urgent snake-in-crib emergency with 8-month-old child.",
+    "tools_used": [],
+    "draft_reply": "Diego \u2014 we're on it. A technician is heading to you now at 800 Suck Creek Rd. Keep your daughter away from that room and call us immediately at [Possum Patrol emergency number] if the snake moves. We'll be there ASAP."
+  },
+  {
+    "id": "msg_0056",
+    "sender_name": "Yvette Beaumont",
+    "sender_email": "y.beaumont@gmail.com",
+    "subject": "Squirrel chewed through ATTIC WIRING",
+    "body": "We just had an electrician out who says the fire risk in our attic is severe. He says he can't fix it until the squirrels are gone. We have a 4-year-old. How fast can you come, and do you provide a report I can give my insurance?",
+    "received_at": "2026-05-12T10:22:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active fire hazard in home with young child present; electrician has flagged severe risk and blocked repairs until animal removal is complete.",
+    "needs_review": true,
+    "customer_context": "New customer, no prior history. Squirrel infestation with documented fire hazard and young child in home.",
+    "tools_used": [],
+    "draft_reply": "Yvette, that's a serious situation and we treat fire risk as our top priority. We can typically get out same-day or next-morning for something like this. Yes, we provide a removal report suitable for insurance \u2014 we'll document what we find and remove. Let me get you scheduled right away. What's your availability today or tomorrow morning?"
+  },
+  {
+    "id": "msg_0057",
+    "sender_name": "Pavlova Bakery",
+    "sender_email": "info@pavlovabakery.com",
+    "subject": "Roaches found in dough station",
+    "body": "Skye - it's Lana at Pavlova Bakery. We have roaches in the dough station this morning. We're a monthly account but this is bad. Can you come today before we open?",
+    "received_at": "2026-05-12T05:30:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active pest in commercial food-prep area before business opens \u2014 health code violation risk and operational shutdown threat for a valued monthly account.",
+    "needs_review": true,
+    "customer_context": "Pavlova Bakery is a 14-job, $5,600 commercial monthly account ($400/month) \u2014 high-value repeat customer.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Lana, we're on it \u2014 roaches in the dough station is exactly the kind of crisis we jump on. Let me get a tech out there ASAP this morning. I'll call you in the next 15 minutes with an ETA. Thanks for the heads-up."
+  },
+  {
+    "id": "msg_0058",
+    "sender_name": "Frank Diorio",
+    "sender_email": "fdiorio@gmail.com",
+    "subject": "Possum I think is dying under deck",
+    "body": "There's a possum under my deck and he looks really bad. Hasn't moved in 12 hours. I don't know if he's dying or playing dead. Can you come check? I don't want my dog to find him.",
+    "received_at": "2026-05-12T11:00:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "An animal in distress under a residential structure with risk of dog exposure \u2014 requires urgent assessment and humane intervention.",
+    "needs_review": true,
+    "customer_context": "New customer; no prior history.",
+    "tools_used": [],
+    "draft_reply": "Frank, we'll get someone out to check on that possum right away \u2014 whether he's in shock or truly ill, we need to keep him safe and away from your dog. Can you call us at [phone] this morning so we can lock in a time? We handle these situations all the time and know how to help."
+  },
+  {
+    "id": "msg_0059",
+    "sender_name": "Trinity Albright",
+    "sender_email": "tribright2003@gmail.com",
+    "subject": "raccoons fighting in walls 3am",
+    "body": "It is 3:48 am. There are raccoons FIGHTING in my walls. I can hear teeth. I am crying. Please.",
+    "received_at": "2026-05-12T03:48:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Active animal in living space at night causing distress; wildlife noise/conflict in walls is a classic emergency requiring immediate response.",
+    "needs_review": true,
+    "customer_context": "New customer, no prior records; nighttime emergency call at 3:48 am with active raccoon conflict in walls.",
+    "tools_used": [],
+    "draft_reply": "Trinity, I'm so sorry\u2014that's terrifying. We're here. Please call our emergency line right now at [EMERGENCY NUMBER] and let our on-call team know what you're hearing. We can dispatch someone within the hour or talk you through immediate steps to stay safe. You're not alone in this."
+  },
+  {
+    "id": "msg_0060",
+    "sender_name": "Hartwell Industries",
+    "sender_email": "facilities@hartwellind.com",
+    "subject": "Rodent contamination \u2014 production line",
+    "body": "We have to shut down line 3 due to rodent droppings found near food-grade packaging. We need emergency commercial inspection + treatment + documentation today. Please call Jim Hartwell at extension 211.",
+    "received_at": "2026-05-12T07:45:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Commercial health-code crisis with active production shutdown \u2014 high-value emergency requiring same-day response.",
+    "needs_review": true,
+    "customer_context": "New commercial prospect; rodent contamination at food-grade production facility with active line shutdown.",
+    "tools_used": [],
+    "draft_reply": "Jim, we got your message and understand the urgency \u2014 a production shutdown is serious business. Skye will call you at ext. 211 right away to confirm arrival time and scope. We'll do the inspection, treatment, and provide full documentation for your records. Thanks for reaching out to Possum Patrol."
+  },
+  {
+    "id": "msg_0061",
+    "sender_name": "Heather Volkov",
+    "sender_email": "hvolkov.tn@gmail.com",
+    "subject": "Yellow jackets \u2014 kid stung",
+    "body": "My son got stung 4 times by yellow jackets coming out of our shed. We found a huge nest. We need it gone today, we have a birthday party Saturday.",
+    "received_at": "2026-05-12T12:05:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Child stung multiple times, active nest poses immediate re-injury risk, time-sensitive event (birthday party) creates deadline pressure.",
+    "needs_review": true,
+    "customer_context": "New customer, child injury from stinging insects, urgent same-day/next-day removal needed.",
+    "tools_used": [],
+    "draft_reply": "Heather, I'm so sorry your son got hurt \u2014 that's scary. Yellow jackets are aggressive and we can absolutely help. Let me get you on the schedule today or first thing tomorrow. Can you call or text me back with your address and the best time to swing by? We'll get that nest handled before Saturday. \u2014Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0062",
+    "sender_name": "Brookwood Memory Care",
+    "sender_email": "sandra@brookwoodmem.com",
+    "subject": "URGENT \u2014 bats in resident wing",
+    "body": "Hi, I'm the director at Brookwood Memory Care. We have bats getting into the residents' wing at night. We are licensed and inspected \u2014 this needs to be resolved immediately and discreetly. We have not had to use your services before but you came strongly recommended by Dr. Oyelaya. Please call (423) 555-0192.",
+    "received_at": "2026-05-12T06:30:00Z",
+    "category": "emergency",
+    "priority": 1,
+    "urgency_reason": "Commercial health-code crisis at a licensed facility with vulnerable residents; bats in occupied space is a safety and regulatory risk that demands immediate action.",
+    "needs_review": true,
+    "customer_context": "Commercial referral from Dr. Oyelaya; licensed memory care facility with regulatory exposure and vulnerable population.",
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": "Sandra, thank you for reaching out \u2014 we absolutely can help. Bats in a residential care facility are a priority for us, and we understand the urgency and discretion required. I'm having our team call you within the hour at (423) 555-0192 to scope the issue and get you a fast timeline. We've got you."
+  },
+  {
+    "id": "msg_0091",
+    "sender_name": "Felicia Holcomb",
+    "sender_email": "fholcomb@gmail.com",
+    "subject": "Re: Something died in our wall",
+    "body": "Skye - haven't heard back. The smell is worse. Have you gotten my emails? I called twice and left voicemails.",
+    "received_at": "2026-05-12T16:00:00Z",
+    "category": "follow_up",
+    "priority": 1,
+    "urgency_reason": "Third+ contact attempt (emails + two voicemails) on an active problem (dead animal odor worsening); customer relationship at risk from dropped communication.",
+    "needs_review": true,
+    "customer_context": "Repeat customer (3 prior jobs, $925 total) with no special notes; now frustrated by lack of response on urgent smell complaint.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Felicia, I'm so sorry we dropped the ball\u2014that's not like us. A dead animal in the wall gets worse by the day, and you deserve a fast answer. Let me get you scheduled today. Can you call me back at [phone] or let me know your best window this week? We'll get that sorted."
+  },
+  {
+    "id": "msg_0095",
+    "sender_name": "Tabitha Greene",
+    "sender_email": "tabby.g@gmail.com",
+    "subject": "Re: Re: Re: Re: schedule for May",
+    "body": "Skye, this is my 4th email. We had an appointment scheduled and I've heard nothing. I will need to consider other providers if I don't hear back by Friday. Disappointed - your dad never did this.",
+    "received_at": "2026-05-12T17:00:00Z",
+    "category": "follow_up",
+    "priority": 1,
+    "urgency_reason": "4th unanswered email from a VIP customer threatening to leave; explicit comparison to Marshall's service standard.",
+    "needs_review": true,
+    "customer_context": "VIP with 9 jobs and $3,120 in revenue; last service Aug 2025; long-standing customer comparing current service unfavorably to Marshall's standards.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Tabitha, I'm so sorry \u2014 that's completely on us and not how we do things. Let me track down what happened with your May appointment right now and get you confirmed by end of day today. Dad would say the same thing. I'll call you within the hour."
+  },
+  {
+    "id": "msg_0006",
+    "sender_name": "Dottie Henderson",
+    "sender_email": "dottie.h@aol.com",
+    "subject": "Skye dear, possum under the porch again",
+    "body": "Skye honey, it's Dottie. That same possum (or maybe his cousin) is back under the porch. He was there last June, your daddy got him out. Whenever you have a chance, no rush. I'll have lemonade ready. - Dottie",
+    "received_at": "2026-05-12T10:11:17Z",
+    "category": "follow_up",
+    "priority": 2,
+    "urgency_reason": "VIP long-term customer (22 years, $8k+ revenue) with a repeat issue at a familiar location; warm relationship and past service history make this a keeper.",
+    "needs_review": true,
+    "customer_context": "Dottie is a VIP since 2003, senior discount always, no bees (allergic), pays cash\u2014this is a repeat possum job at a familiar address with a warm, personal tone.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip"
+    ],
+    "draft_reply": "Dottie, honey\u2014we'd love to come get that possum out from under your porch again! It's probably a relative of last year's friend. I'll get you scheduled this week, and I'll definitely take you up on that lemonade. Senior discount applies as always. I'll call you tomorrow with a time. \u2014Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0007",
+    "sender_name": "Jennifer Park",
+    "sender_email": "jenpark.tn@gmail.com",
+    "subject": "Quote for bat removal",
+    "body": "Hi, we have bats in our attic in our home in East Brainerd. Looks like maybe 5-6 of them when we shined a flashlight up there. Two-story house, attic accessible from a pulldown ladder. Looking for a quote and timeline. Thanks, Jen",
+    "received_at": "2026-05-12T11:23:42Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine residential bat removal request with clear scope (5-6 bats, attic, accessible), which is a high-value service ($400\u2013$800) that warrants prompt attention.",
+    "needs_review": true,
+    "customer_context": "New customer, residential bat removal in East Brainerd; clear scope and accessible attic make this a straightforward job.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Jen, thanks for reaching out! Bat removal in an attic typically runs $400\u2013$800 depending on the exact setup and whether we need special permits. With 5\u20136 bats in an accessible attic, we're looking at the lower-to-mid range. I'll swing by for a quick look to give you a firm quote and timeline\u2014usually we can knock these out pretty fast. What does next week look like for you?"
+  },
+  {
+    "id": "msg_0008",
+    "sender_name": "Mark Donato",
+    "sender_email": "markdonato@yahoo.com",
+    "subject": "estimate for squirrels?",
+    "body": "How much to remove squirrels from soffit? Heard them scratching for 2 weeks. Ranch house, 1500 sq ft, Soddy-Daisy.",
+    "received_at": "2026-05-12T11:55:08Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine residential quote request; squirrel infestation active for 2 weeks suggests ongoing damage risk.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hey Mark! Squirrels in the soffit are a pain\u2014and they'll keep chewing if we don't get them out and seal those entry points. Removal usually runs $200\u2013$350, and entry-point sealing (the soffit area) is typically $75\u2013$200 per point depending on what we find. I'll want to take a quick look to give you a firm quote and make sure we close up every way they're getting in. When works best for a walkthrough?"
+  },
+  {
+    "id": "msg_0009",
+    "sender_name": "Patel Family",
+    "sender_email": "rpatel.fam@gmail.com",
+    "subject": "Inquiry \u2014 armadillo damage in yard",
+    "body": "Hello, we've had armadillos digging up our backyard for about 3 weeks now. Lots of holes in the lawn. Can you provide a quote for removal and also any repair work? We're in Hixson near the country club. Thanks, Ravi & Anjali Patel",
+    "received_at": "2026-05-12T12:34:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine residential removal request with 3-week-old damage; within service area and scope, but not an active emergency.",
+    "needs_review": true,
+    "customer_context": "New customer in Hixson; straightforward armadillo removal + possible yard repair in scope.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Ravi & Anjali! Thanks for reaching out\u2014armadillos are Tennessee's worst guests, and we've tackled plenty of them in Hixson. Removal usually runs $200\u2013$400 depending on activity level, and we can seal entry points to keep them from coming back. Lawn repair would be a separate conversation once we get them out. How about we swing by for a quick look and give you a firm quote? We're pretty flexible on timing."
+  },
+  {
+    "id": "msg_0010",
+    "sender_name": "Brent Stafford",
+    "sender_email": "bstafford@stafford-property.com",
+    "subject": "Commercial quote \u2014 8-unit apartment building",
+    "body": "Hi Possum Patrol team, I manage a small apartment building in Red Bank. Tenants have been complaining about mice. Looking for an inspection + treatment plan. Possibly recurring monthly. Building has 8 units, mostly 1BR. Please let me know your rates and availability. - Brent",
+    "received_at": "2026-05-12T13:02:55Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Commercial account with potential recurring revenue; requires a written proposal per Marshall's rule, not a phone estimate.",
+    "needs_review": true,
+    "customer_context": "New commercial prospect with multi-unit property and likely recurring need; requires on-site inspection before pricing.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Brent, thanks for reaching out. We'd be happy to help with your Red Bank building. For a commercial infestation like this, we'll want to do a proper site visit and inspection first\u2014that'll let us scope the severity and put together a solid treatment and monitoring plan. Once we've looked it over, we'll send you a written quote. Can you tell us your availability for an inspection in the next week or so? \u2013 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0011",
+    "sender_name": "Casey W.",
+    "sender_email": "caseyw94@gmail.com",
+    "subject": "how much for opossum",
+    "body": "hi how much to take an opossum out from under a shed. small shed. just one possum we think",
+    "received_at": "2026-05-12T13:45:11Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine service request for a routine residential removal (opossum under shed); no emergency or follow-up flag.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Casey, thanks for reaching out! Opossum removal from under a shed typically runs $175\u2013$300 depending on the setup and whether there are babies hiding. We'll get someone out to take a quick look and give you a firm quote\u2014just let us know what works for your schedule. Sound good? \u2014Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0012",
+    "sender_name": "Greater Chattanooga Christian Academy",
+    "sender_email": "facilities@gcca.edu",
+    "subject": "Pest inspection quote \u2014 school facilities",
+    "body": "Good afternoon, We are reviewing our pest control vendor and would like to request a quote for monthly inspection services for our K-8 campus. Approximately 45,000 sq ft across 3 buildings, plus cafeteria. Please send service offerings and pricing. Thank you, Linda Edwards, Facilities Director",
+    "received_at": "2026-05-12T14:18:33Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Commercial multi-building quote from an educational institution; requires written proposal and is a relationship-building opportunity for a family business.",
+    "needs_review": true,
+    "customer_context": "New commercial prospect; school facilities (K-8 campus, 3 buildings, cafeteria)\u2014no prior relationship in records.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Linda, Thanks for reaching out to Possum Patrol. We'd love to help keep Greater Chattanooga Christian Academy pest-free. A 45,000 sq ft campus with multiple buildings and a cafeteria is right in our wheelhouse\u2014I'll put together a detailed written proposal for monthly inspection services that covers all three buildings and your food service area. I'll follow up by end of week with pricing and service details. Looking forward to working with you. Best, Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0020",
+    "sender_name": "Allstate Insurance \u2014 Tom Bullard's Office",
+    "sender_email": "tbullard@allstate.com",
+    "subject": "Policy renewal notice - Action required",
+    "body": "Hi Skye, your commercial liability policy renews on Feb 28, 2027. Premium has increased by 7% over last year. Please contact our office to review or request quotes. Tom",
+    "received_at": "2026-05-12T09:00:00Z",
+    "category": "invoice",
+    "priority": 2,
+    "urgency_reason": "Insurance renewal due Feb 28, 2027 \u2014 Marshall's notes say to get 3 quotes before renewing, so this needs prompt attention to avoid a lapse.",
+    "needs_review": true,
+    "customer_context": "Allstate renewal via Tom Bullard's office; Marshall's rule is to shop 3 quotes before accepting any renewal.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Tom, thanks for the heads-up. We'll get those three quotes lined up and circle back to you by mid-February. Appreciate you keeping us on track."
+  },
+  {
+    "id": "msg_0023",
+    "sender_name": "Linda Krell",
+    "sender_email": "lkrell@riveroakshoa.com",
+    "subject": "Quarterly inspection scheduling \u2014 River Oaks",
+    "body": "Hi Skye, time for our spring quarterly. Board would like to schedule for the last week of May if possible. Please confirm date and ETA. - Linda",
+    "received_at": "2026-05-11T16:22:00Z",
+    "category": "follow_up",
+    "priority": 2,
+    "urgency_reason": "VIP commercial account with 36 prior jobs and $18.9k lifetime revenue; routine quarterly due but needs scheduling confirmation \u2014 low risk if handled promptly, high risk if delayed.",
+    "needs_review": true,
+    "customer_context": "Linda Krell, River Oaks HOA board president (36 jobs, $18.9k revenue); quarterly perimeter treatment due; voicemail-only preference and strict no-reply-all rule on board chains.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip"
+    ],
+    "draft_reply": "Hi Linda, perfect timing \u2014 we'll get River Oaks on the calendar for late May. I'll confirm a specific date and ETA by end of week. Thanks for keeping us in the loop! \u2014 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0024",
+    "sender_name": "Marsha Beauchamp",
+    "sender_email": "marsha@skylinerealty.com",
+    "subject": "Question about pre-listing inspection",
+    "body": "Skye hi! I have a listing going live next week and the sellers want a pre-inspection. Standard residential, 2200 sqft, Lookout Mountain. Can you get out there by Friday? Also \u2014 do you have any updated rates? I want to be able to refer you confidently. Thanks! - Marsha",
+    "received_at": "2026-05-11T17:18:11Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "VIP referral source with a time-sensitive job (pre-listing inspection by Friday) and a request for current pricing.",
+    "needs_review": true,
+    "customer_context": "Marsha Beauchamp is a realtor who has referred multiple jobs (4 total, $1,880 revenue) and is a steady VIP source; this is a legitimate pre-listing inspection request with a tight Friday deadline.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Marsha, love the referral! A pre-listing inspection is a great idea \u2014 we can usually knock that out in an hour or so and give the sellers peace of mind. Friday is tight but doable depending on our schedule; I'll check and get back to you same-day. For a 2200-sqft residential, you're typically looking at $300\u2013$500 depending on what we find and whether any exclusion work is needed. I'll have a firm quote for you by end of business today. Thanks for sending business our way!"
+  },
+  {
+    "id": "msg_0027",
+    "sender_name": "Susan Whitfield",
+    "sender_email": "susan.w@gmail.com",
+    "subject": "Question about my invoice",
+    "body": "Hi Skye, my invoice from last week shows $425 but Marshall had quoted me $350 in February when we first talked. Was the pricing increased? Just want to make sure there isn't a mistake. Thanks, Susan",
+    "received_at": "2026-05-11T21:14:00Z",
+    "category": "follow_up",
+    "priority": 2,
+    "urgency_reason": "A repeat customer (3 jobs, $725 lifetime value) is questioning a price discrepancy \u2014 unanswered concern risks losing her goodwill.",
+    "needs_review": true,
+    "customer_context": "Susan is a 3-job customer with $725 lifetime revenue; no special notes, but a price discrepancy on her recent invoice needs immediate clarification.",
+    "tools_used": [
+      "lookup_customer",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Susan, thanks for catching that! I apologize for the confusion. Let me pull up the details on that job from last week and find out what happened with the quote. I'll get back to you today with a full breakdown and make sure everything is fair. We really appreciate your business \u2014 sorry for the mix-up. \u2014Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0029",
+    "sender_name": "Cody Vasquez",
+    "sender_email": "cvasquez22@gmail.com",
+    "subject": "Need to reschedule Thursday",
+    "body": "Skye - can we move my Thursday appointment to Friday? Got called into work. Same time works. Sorry!",
+    "received_at": "2026-05-12T10:55:00Z",
+    "category": "follow_up",
+    "priority": 2,
+    "urgency_reason": "Existing customer with upcoming appointment needs rescheduling; quick response prevents no-show or missed slot.",
+    "needs_review": true,
+    "customer_context": "Repeat customer (3 jobs, $890 total revenue) with clean history; last service early March.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Hey Cody! No problem at all\u2014happens to the best of us. Let me check Friday the same time and get back to you within the hour. Thanks for the heads-up!"
+  },
+  {
+    "id": "msg_0035",
+    "sender_name": "Eleanor Faust",
+    "sender_email": "efaust@aol.com",
+    "subject": "I know Marshall is gone but...",
+    "body": "Skye dear, I know your father is retired and I shouldn't be writing him, but he was such a comfort when my husband passed. I have squirrels in the eaves and I'd like to schedule with you. He spoke so highly of you. Whenever you have time. - Eleanor",
+    "received_at": "2026-05-12T11:00:00Z",
+    "category": "community",
+    "priority": 2,
+    "urgency_reason": "Long-time VIP customer (22 jobs, $4,750 revenue) blending a genuine service need with personal warmth and grief \u2014 requires a warm human reply that honors the relationship before handling logistics.",
+    "needs_review": true,
+    "customer_context": "Eleanor is a 22-job VIP with a long history; she grieved her husband's passing with Marshall's support and is now reaching out to Skye with a squirrel job.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Eleanor, what a sweet note \u2014 Dad always spoke so fondly of you too, and I'm honored to carry on what he started. I'm so sorry for the loss of your husband; that meant the world to him. Let's get those squirrels handled for you. I'll reach out this week to schedule a time that works \u2014 you just sit tight. Warm regards, Skye, Possum Patrol."
+  },
+  {
+    "id": "msg_0036",
+    "sender_name": "Aiden Pearce",
+    "sender_email": "aiden.p@outlook.com",
+    "subject": "Quote \u2014 yellow jackets in deck",
+    "body": "Hi - need a quote for yellow jacket nest removal. Looks like they built it in the underside of my deck. Maybe 200-300 of them I can see. Address 5 Watercrest Dr Chattanooga. How much and how soon? -Aiden",
+    "received_at": "2026-05-12T12:12:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine service request with a potential safety concern (large yellow jacket colony), though not an active emergency; customer has prior quote history but never booked.",
+    "needs_review": true,
+    "customer_context": "Aiden has requested one quote in the past but never booked a job; this is a legitimate new service request for yellow jacket removal, which is in scope.",
+    "tools_used": [
+      "lookup_customer",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Aiden \u2014 yellow jackets that size are definitely something we handle, and a deck nest can be tricky since we need to make sure we're not stirring up the whole hive. A job like this usually runs $300\u2013$500 depending on nest access and how we approach it. I'd love to swing by and take a quick look before we nail down a firm quote \u2014 that way we can give you a real price and timeline. When works best for you? \u2014 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0037",
+    "sender_name": "April Henson",
+    "sender_email": "april.henson@gmail.com",
+    "subject": "found your business card at the diner",
+    "body": "hey saw your card at the cracker barrel on hwy 153. i have a mouse problem in a rental property im managing. small 2bdrm. can you ballpark a price? thanks",
+    "received_at": "2026-05-12T12:48:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine new customer inquiry for a residential service with a clear scope (small rental property mouse infestation).",
+    "needs_review": true,
+    "customer_context": "New lead, found business card at local diner, managing a rental property with a mouse problem.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Hey April! Thanks for finding us at the Cracker Barrel\u2014glad the card made it into good hands. For a mouse infestation in a small 2-bedroom, we usually run somewhere in the $300\u2013$600 range depending on how widespread it is and what we find once we get in there. I'd love to swing by, take a quick look, and give you a firm quote. When works best for you?"
+  },
+  {
+    "id": "msg_0038",
+    "sender_name": "Lakeshore Office Park (Admin)",
+    "sender_email": "admin@lakeshoreop.com",
+    "subject": "RFQ - quarterly commercial pest control",
+    "body": "Possum Patrol team, We are accepting bids for our quarterly pest control contract for the 2026-2027 cycle. Property is 6 buildings, 110,000 sq ft total. Current vendor's contract ends July 31. Please submit your proposal by June 15. Specs attached (well, they would be \u2014 Skye this email had a PDF Marshall wouldn't have known how to open). - Sandra Gellman, Property Admin",
+    "received_at": "2026-05-12T13:15:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Large commercial RFQ (6 buildings, 110k sq ft) with a June 15 deadline and July 31 contract changeover \u2014 high-value opportunity that needs a written proposal, not a quick estimate.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": "Hi Sandra, thanks for thinking of us! A six-building quarterly contract is exactly the kind of work we love. We'll need to review your specs and do a walk-through to give you a solid proposal. Can we set up a site visit in the next week or two? That'll let us put together something competitive by your June 15 deadline. I'll follow up with you tomorrow to lock in a time. \u2014 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0039",
+    "sender_name": "Brad Stenger",
+    "sender_email": "bstenger@gmail.com",
+    "subject": "Quick question on flying squirrels",
+    "body": "Hi, do you all handle flying squirrels? I think that's what's in my attic. They glide between trees in my yard. Different price than regular squirrels?",
+    "received_at": "2026-05-12T14:00:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine service inquiry; flying squirrels are a legitimate removal job, typically priced similar to or slightly higher than regular squirrels due to complexity.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Brad, yes we absolutely handle flying squirrels \u2014 they're sneaky little acrobats! Price-wise, they usually run in the same ballpark as regular squirrels ($200\u2013$350), though it can creep up a bit depending on how many entry points we find and seal. I'd love to swing by for a quick look and give you a firm quote. Give us a call or let me know your availability and we'll get you sorted."
+  },
+  {
+    "id": "msg_0040",
+    "sender_name": "Sandeep Rao",
+    "sender_email": "sandeep.rao@gmail.com",
+    "subject": "Following up on my March visit",
+    "body": "Hey Skye, you came out in March for the chipmunks under the deck. They're back. I think we need exclusion work \u2014 you mentioned that as an option last time. Can we set something up?",
+    "received_at": "2026-05-11T11:45:00Z",
+    "category": "follow_up",
+    "priority": 2,
+    "urgency_reason": "Returning customer with a legitimate re-treatment need after prior service; exclusion work is a natural next step from the March visit.",
+    "needs_review": true,
+    "customer_context": "Sandeep is a repeat customer (2 prior jobs, $675 lifetime value) whose chipmunk issue has returned; exclusion work is the logical follow-up service.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Hi Sandeep, thanks for reaching out \u2014 glad you remember the exclusion option we talked about in March. That's definitely the right move to keep them from coming back. Let me get you scheduled for a quick look and we'll map out the work. I'll follow up with some times by end of day tomorrow."
+  },
+  {
+    "id": "msg_0045",
+    "sender_name": "Sasha Mendoza",
+    "sender_email": "smendoza@protonmail.com",
+    "subject": "Ants",
+    "body": "Hi! Long-time customer. We have ants in the kitchen. Black ones. I think regular ant spray isn't cutting it. Can you come by sometime this week?",
+    "received_at": "2026-05-12T16:48:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine service request from an established customer (4 prior jobs, $1,140 revenue) with an active pest problem, but not an emergency.",
+    "needs_review": true,
+    "customer_context": "Loyal 4-time customer, last service April 2026, no special notes or discounts on file.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Hi Sasha! Thanks for sticking with us \u2014 we'd be happy to help with those kitchen ants. Black ants can definitely be stubborn. Let me check the schedule and get back to you today with availability for this week. We'll take a look and set you up with the right treatment."
+  },
+  {
+    "id": "msg_0047",
+    "sender_name": "Brian Hodges",
+    "sender_email": "bhodges@bellsouth.net",
+    "subject": "Need to cancel May 20 appt",
+    "body": "Skye - we have to cancel the May 20 appointment, family emergency. Will reschedule next month. Sorry for late notice. -Brian",
+    "received_at": "2026-05-12T17:15:00Z",
+    "category": "follow_up",
+    "priority": 2,
+    "urgency_reason": "Existing customer with good history canceling an upcoming appointment; needs prompt confirmation and rescheduling to keep the relationship smooth.",
+    "needs_review": true,
+    "customer_context": "6-job loyal customer ($1,680 lifetime revenue); last service Feb 28, 2026; clean history.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Brian, no problem at all \u2014 family comes first. We'll get that May 20 slot freed up for someone else. Just reach out whenever you're ready to reschedule next month and we'll take good care of you. Thanks for the heads-up! \u2014Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0064",
+    "sender_name": "April Henson",
+    "sender_email": "april.henson@gmail.com",
+    "subject": "another rental \u2014 mouse quote",
+    "body": "Following up \u2014 I have another property in East Brainerd with the same mouse situation. Can you quote a 2-property plan?",
+    "received_at": "2026-05-12T12:30:00Z",
+    "category": "follow_up",
+    "priority": 2,
+    "urgency_reason": "Existing customer following up on a multi-property service request; risk of losing repeat business if not answered promptly.",
+    "needs_review": true,
+    "customer_context": "April Henson is an existing customer with at least one prior property we've serviced; she's now requesting a quote for a second rental property with a similar mouse issue.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Hey April \u2014 thanks for thinking of us for the second property! We'd love to help. Mouse jobs can vary a lot depending on the size of each place and how far along the infestation is. How about we schedule a quick look at the East Brainerd property, and we can put together a 2-property plan that makes sense? Give us a call or let me know what days work best."
+  },
+  {
+    "id": "msg_0065",
+    "sender_name": "Reverend Donna Pell",
+    "sender_email": "rev.donna@redbankumc.org",
+    "subject": "Annual church inspection quote",
+    "body": "Skye, time for our annual inspection. Same building, same scope as last year. Quote please at your earliest convenience. Discount as usual.",
+    "received_at": "2026-05-12T13:00:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "VIP church customer with 8-job history requesting annual routine inspection; not urgent but deserves prompt attention.",
+    "needs_review": true,
+    "customer_context": "Reverend Donna Pell is a VIP church customer (8 jobs, $1,240 lifetime revenue) entitled to 10% discount; requesting routine annual inspection same as prior year.",
+    "tools_used": [
+      "lookup_customer",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Reverend Pell, thanks for reaching out! We'd be happy to do your annual inspection. Since it's the same scope as last year, we're looking at our standard monthly inspection range of $200\u2013$400, and with your church discount, we'll have that closer to $180\u2013$360. I'll swing by to confirm the details and lock in a firm quote. What days work best for you this week?"
+  },
+  {
+    "id": "msg_0066",
+    "sender_name": "Magnolia Estates HOA",
+    "sender_email": "board@magnoliaestates-hoa.com",
+    "subject": "RFQ - 220-unit HOA pest control",
+    "body": "Hello, we are accepting bids from local providers for our 220-unit subdivision in Ooltewah. Current provider is being replaced. Would you be able to submit a proposal? We can send specs if interested.",
+    "received_at": "2026-05-12T13:20:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Large commercial opportunity (220-unit HOA contract) from a new prospect \u2014 high-value job worth a prompt, professional response.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": "Hi there \u2014 thanks for reaching out! We'd absolutely be interested in bidding on Magnolia Estates. We've got solid experience with HOA perimeter treatments and quarterly maintenance programs. Please send over your specs, and we'll get a detailed proposal back to you quickly. Looking forward to it. \u2014 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0067",
+    "sender_name": "Jared Pham",
+    "sender_email": "jaredpham99@gmail.com",
+    "subject": "how much to seal up a chimney from raccoons",
+    "body": "raccoons in chimney already removed by previous company. need it sealed so they don't come back. quote pls. 4900 Hixson Pike",
+    "received_at": "2026-05-12T13:35:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine service request for chimney cap installation, a straightforward exclusion job with a clear address.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Jared, thanks for reaching out! A chimney cap to keep raccoons out typically runs $250\u2013$400 depending on the exact setup. We'll take a quick look and send you a firm quote\u2014usually can schedule that within a few days. Give us a call or let us know what works best. \u2014Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0068",
+    "sender_name": "Lourdes Carrasco",
+    "sender_email": "lou.carrasco@gmail.com",
+    "subject": "Estimate request \u2014 comprehensive home protection",
+    "body": "We just moved into a 1940s home in St. Elmo and want a comprehensive inspection + preventive treatment plan. Mice, rats, termites, ants, bats \u2014 the works. Can we schedule a walkthrough this week?",
+    "received_at": "2026-05-12T13:55:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine new customer requesting a comprehensive multi-service inspection and preventive plan for a 1940s home; requires a site visit and written proposal.",
+    "needs_review": true,
+    "customer_context": "New customer, St. Elmo area, 1940s home, requesting multi-service inspection and preventive plan including rodents and bats.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Lourdes, welcome to St. Elmo! We'd love to help you get your 1940s home protected. A comprehensive walkthrough makes sense \u2014 we'll look at entry points, exclusion, and any active signs of mice, rats, or bats. (Note: termites and ants aren't our usual wheelhouse, but we can refer you to a solid partner if you need them.) Let's find a time this week. Can you give me your availability and best phone number?"
+  },
+  {
+    "id": "msg_0069",
+    "sender_name": "Mountain Brook Veterinary",
+    "sender_email": "office@mtnbrookvet.com",
+    "subject": "Inquiry: monthly inspection",
+    "body": "Hi - Dr. Oyelaya at Hixson Vet recommended you for our second location in Ringgold. We'd like a quote for monthly inspection comparable to her plan.",
+    "received_at": "2026-05-12T14:10:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Commercial veterinary account with referral from existing customer; steady monthly revenue opportunity.",
+    "needs_review": true,
+    "customer_context": "New commercial lead (veterinary clinic in Ringgold) referred by existing vet customer; no prior history in records.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi there \u2014 thanks for the referral from Dr. Oyelaya! We'd love to help keep Ringgold healthy. Monthly vet inspections usually run $200\u2013$400 depending on the facility size and scope. I'll reach out early next week to schedule a quick look-see, and we'll put together a written quote that matches what you need. Looking forward to working with you."
+  },
+  {
+    "id": "msg_0070",
+    "sender_name": "Greg Hamilton",
+    "sender_email": "greghamilton.cpa@gmail.com",
+    "subject": "home + accounting office combined?",
+    "body": "Quick question \u2014 my home and accounting office are 2 doors apart. Can I get a combined quote for monthly inspection at both? Located in Hill City.",
+    "received_at": "2026-05-12T14:25:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine commercial + residential hybrid request; potential recurring revenue if quoted well.",
+    "needs_review": true,
+    "customer_context": "No prior history; new inquiry from Hill City (within service area); hybrid residential/commercial setup.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Greg \u2014 great question! We can definitely handle both in one visit. For a combined monthly inspection (residential + small business accounting office), we'd typically run $400\u2013$550/month depending on the scope. I'll get eyes on both properties and send you a written quote. When works best for a quick walk-through?"
+  },
+  {
+    "id": "msg_0071",
+    "sender_name": "Beth Solomon",
+    "sender_email": "bsolomon.tn@aol.com",
+    "subject": "ESTIMATE - rats and exclusion - large home",
+    "body": "I have a 4500 sq ft home, hearing rats in 2 different walls and the attic. Need full extermination + exclusion work + sanitization. What does that run? My realtor says we need this done before listing in August.",
+    "received_at": "2026-05-12T14:45:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine residential quote for a large, complex job (rat infestation + exclusion + sanitization) with a real deadline (August listing); requires a written proposal, not a phone range.",
+    "needs_review": true,
+    "customer_context": "No prior history; a homeowner with a legitimate multi-service need and a real deadline.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Beth, thanks for reaching out \u2014 a 4500 sq ft home with rats in multiple areas is a bigger job than we can pin down over email. We'll need to come take a look, map out entry points, and put together a written estimate for the removal, exclusion work, and sanitization. Give us a call or reply with your availability in the next week or two, and we'll get you locked in before your August listing. Skye, Possum Patrol."
+  },
+  {
+    "id": "msg_0072",
+    "sender_name": "Tony Marchetti",
+    "sender_email": "tony@lookoutgrille.com",
+    "subject": "adding our new location",
+    "body": "Skye \u2014 we're opening Lookout Grille on Cherokee Blvd in 6 weeks. Want to add it to our monthly account. Same scope as the main restaurant. Send me a quote when you get a minute. - Tony",
+    "received_at": "2026-05-12T15:00:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "VIP commercial account expanding; new location requires written proposal per Marshall's rule, and 6-week timeline is a soft deadline.",
+    "needs_review": true,
+    "customer_context": "Tony Marchetti, VIP commercial (52 jobs, $23.4k lifetime), locked-in $450/mo at Lookout Mountain Grille since 2021 \u2014 no price increases without 60-day notice. Now expanding to second location.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Tony \u2014 congrats on the new location! We'd love to add Cherokee Blvd to your monthly inspections. Same $450/mo as the main restaurant, locked in at that rate. I'll get you a formal quote this week. And don't worry \u2014 we'll keep feeding you at both places. - Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0073",
+    "sender_name": "Andrea Park-Bell",
+    "sender_email": "andrea.parkbell@gmail.com",
+    "subject": "price to evict groundhog from garden",
+    "body": "Have a groundhog destroying my vegetable garden in Sale Creek. He's been there 3 weeks. Quote please. Live trap preferred, I don't want him hurt.",
+    "received_at": "2026-05-12T15:15:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Genuine residential removal request with a clear animal and location; not an emergency but a legitimate job inquiry.",
+    "needs_review": true,
+    "customer_context": "No prior record; residential removal in Sale Creek (within service area); requesting live trap, which aligns with Possum Patrol's approach.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Andrea, thanks for reaching out! We'd be happy to help with your groundhog\u2014live trap is absolutely doable and humane. Groundhog removal typically runs $200\u2013$400 depending on how settled in he is and whether we need to do any exclusion work afterward. I'll get this on our schedule for a quick look so we can give you a firm quote and timeline. Sound good?"
+  },
+  {
+    "id": "msg_0074",
+    "sender_name": "The Crash Pad (hostel)",
+    "sender_email": "info@crashpadhostel.com",
+    "subject": "Bed bugs - quote for hostel",
+    "body": "Hi, we had a confirmed bed bug case in one of our dorm rooms. Need treatment + adjacent room precautions. Can we get a quote and an idea of how many days we'd need to close the affected rooms? - Brandon, GM",
+    "received_at": "2026-05-12T15:30:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "Commercial health-code/operational issue (bed bugs in hostel) \u2014 high-value account with operational urgency, but not an immediate life-safety emergency like an active swarm or contamination blocking entry.",
+    "needs_review": true,
+    "customer_context": "The Crash Pad is a hostel with an active bed bug infestation in a dorm \u2014 a commercial health/operational issue that requires a site visit and written proposal, not a phone quote.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Brandon, thanks for reaching out. Bed bugs in a commercial setting need a written proposal \u2014 we'll want to assess the scope (how many rooms, whether it's isolated or spread) and coordinate a treatment schedule that works with your occupancy. Let's get someone out to do a quick look and put together a formal quote with a closure timeline. Can you call us at [phone] or let us know your availability this week?"
+  },
+  {
+    "id": "msg_0086",
+    "sender_name": "Ron at Critter Catcher Co.",
+    "sender_email": "ron@critterc.com",
+    "subject": "Re: April invoice",
+    "body": "Skye - friendly reminder, April invoice ($1,247.50) is now 18 days past due. Marshall always paid by the 10th, just want to make sure it didn't slip through. Let me know if there's anything I can do. - Ron",
+    "received_at": "2026-05-12T08:45:00Z",
+    "category": "invoice",
+    "priority": 2,
+    "urgency_reason": "Vendor payment is 18 days overdue; Marshall's perfect payment history makes this a slip-through that needs immediate attention to preserve the relationship and bulk-discount status.",
+    "needs_review": true,
+    "customer_context": "Ron at Critter Catcher Co. is Possum Patrol's trap supplier; Marshall had a perfect payment history and Possum Patrol gets a 12% bulk discount on Tomahawk traps from him.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Ron \u2014 you're absolutely right, that slipped through in the transition. I'm pulling that right now and getting it processed today. Thanks for the heads-up and for being patient with us. \u2014 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0093",
+    "sender_name": "Sasha Mendoza",
+    "sender_email": "smendoza@protonmail.com",
+    "subject": "Re: Ants",
+    "body": "Skye - hi! Still waiting to hear back about the ant treatment. Should I just call?",
+    "received_at": "2026-05-12T16:30:00Z",
+    "category": "follow_up",
+    "priority": 2,
+    "urgency_reason": "Repeat follow-up on an unanswered prior service request from an established 4-job customer; risk of losing the account.",
+    "needs_review": true,
+    "customer_context": "4-job customer with $1,140 in revenue; last service April 2026; prior ant inquiry unanswered.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Sasha, so sorry for the slow reply! Yes, we can definitely help with ant treatment. I'll get you a quick estimate and availability this week \u2014 or if you'd rather, give me a call and I can walk you through it. Thanks for sticking with us!"
+  },
+  {
+    "id": "msg_0094",
+    "sender_name": "Marsha Beauchamp",
+    "sender_email": "marsha@skylinerealty.com",
+    "subject": "Another listing",
+    "body": "Skye - have another pre-listing inspection coming up, this one in St. Elmo. 1800 sqft Craftsman. Owner wants it before May 28. You up for it?",
+    "received_at": "2026-05-12T16:45:00Z",
+    "category": "quote",
+    "priority": 2,
+    "urgency_reason": "VIP realtor with strong referral history requesting a pre-listing inspection with a firm deadline (May 28); high-value repeat customer.",
+    "needs_review": true,
+    "customer_context": "VIP realtor; 4 prior jobs totaling $1,880; consistent referral source; last service March 2026.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip"
+    ],
+    "draft_reply": "Marsha, absolutely! We'd love to help with the St. Elmo listing. Pre-listing inspections are right in our wheelhouse, and May 28 gives us good room. Let me get a look at the property details and send you a quote\u2014should have that to you by end of week. Thanks for thinking of us!"
+  },
+  {
+    "id": "msg_0025",
+    "sender_name": "Pastor Jim Calloway",
+    "sender_email": "pastor.jim@fbsoddy.org",
+    "subject": "Thank you and a small question",
+    "body": "Dear Skye, Mary and I want to thank you again for the quick response last week with the bird in the sanctuary. We had a wonderful Sunday service uninterrupted. Mary will mail the check this week. One small follow-up question \u2014 do you do gutter cleaning at all, or could you recommend someone? Blessings, Pastor Jim",
+    "received_at": "2026-05-11T19:00:00Z",
+    "category": "community",
+    "priority": 3,
+    "urgency_reason": "A warm thank-you from a valued long-term VIP customer with a genuine but out-of-scope secondary question; relationship maintenance matters more than speed here.",
+    "needs_review": true,
+    "customer_context": "VIP church account (17 jobs, $3260 lifetime revenue, 10% discount always applies); last service 2/11/26; wife Mary handles invoicing on NET 30.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip"
+    ],
+    "draft_reply": "Pastor Jim, Mary \u2014 thank you so much for the kind words! We're so glad that little bird didn't interrupt your service. We love serving First Baptist. On gutter cleaning, that's outside our wheelhouse, but I'd be happy to recommend a local outfit we trust \u2014 I'll send you a couple names separately. Blessings, Skye, Possum Patrol."
+  },
+  {
+    "id": "msg_0034",
+    "sender_name": "Vivian Crowder",
+    "sender_email": "viv.crowder@yahoo.com",
+    "subject": "Skye thank you",
+    "body": "Just wanted to send a quick thank-you for handling the bat situation last week. So professional and Marshall would be proud. We're recommending you to all our neighbors. - Viv",
+    "received_at": "2026-05-11T14:22:00Z",
+    "category": "community",
+    "priority": 3,
+    "urgency_reason": "A genuine thank-you from a repeat customer with positive referral intent \u2014 warm relationship maintenance, not urgent logistics.",
+    "needs_review": true,
+    "customer_context": "Repeat customer (2 jobs, $540 total) with recent service (Feb 2026); no special notes but clearly a satisfied advocate.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Viv, that means the world to us \u2014 thank you for the kind words and for sending neighbors our way! We're so glad the bat job went smooth. Marshall still gets a kick out of hearing when folks are happy. Take care!"
+  },
+  {
+    "id": "msg_0044",
+    "sender_name": "Chamber of Commerce",
+    "sender_email": "members@chattchamber.org",
+    "subject": "Annual membership dues \u2014 final notice",
+    "body": "Possum Patrol Pest Control - your annual Chamber of Commerce membership dues ($375) are 90 days overdue. Please remit by May 31 to avoid lapse. - Chamber Membership Services",
+    "received_at": "2026-05-12T16:22:00Z",
+    "category": "invoice",
+    "priority": 3,
+    "urgency_reason": "Membership dues 90 days overdue with a May 31 deadline; not immediate emergency but needs attention to avoid lapse.",
+    "needs_review": true,
+    "customer_context": "Chamber of Commerce annual membership renewal; $375 due by May 31.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Thanks for the reminder. We'll get that $375 sent over before May 31st to keep our membership active. Appreciate the heads-up! \u2013 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0049",
+    "sender_name": "Bill Hargraves",
+    "sender_email": "bhargraves.tn@gmail.com",
+    "subject": "checking on you",
+    "body": "Skye - just thinking about you and your dad. How's the business going? Need anything? You can call anytime. - Bill",
+    "received_at": "2026-05-12T17:55:00Z",
+    "category": "community",
+    "priority": 3,
+    "urgency_reason": "A warm personal note from a long-standing friend and loyal customer\u2014no service request, but the relationship matters and deserves a genuine reply.",
+    "needs_review": true,
+    "customer_context": "Bill is an 11-job, $2,870 customer and a personal friend of Marshall's since way back; eligible for discount if requested.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Bill, thank you so much for reaching out\u2014that means the world to us. Dad's doing great and enjoying retirement, and the business is thriving thanks to folks like you who've stuck with us over the years. We appreciate you more than you know. Hope to see you soon!"
+  },
+  {
+    "id": "msg_0063",
+    "sender_name": "Kunal Mehta",
+    "sender_email": "kunalmehta.tn@gmail.com",
+    "subject": "chipmunk damage quote",
+    "body": "Hi - we have chipmunks tearing up our garden and digging under the patio. Quote please for trapping and exclusion. 2 acres in Signal Mountain.",
+    "received_at": "2026-05-12T11:40:00Z",
+    "category": "quote",
+    "priority": 3,
+    "urgency_reason": "Genuine service request but not time-sensitive; garden/patio damage is routine, not an emergency or safety risk.",
+    "needs_review": true,
+    "customer_context": "New customer, no prior history; requesting chipmunk removal and exclusion on a 2-acre residential property in Signal Mountain.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Kunal \u2013 thanks for reaching out! Chipmunk trapping and exclusion is definitely in our wheelhouse. A 2-acre property with patio work will need a site visit to give you a firm quote, but exclusion jobs like yours typically run $300\u2013$800 depending on how many entry points we're sealing. How's your schedule for a quick look this week or next?"
+  },
+  {
+    "id": "msg_0096",
+    "sender_name": "Dottie Henderson",
+    "sender_email": "dottie.h@aol.com",
+    "subject": "Strawberries from the garden",
+    "body": "Brenda \u2014 I mean Skye, dear \u2014 strawberries are in if you want some! Stop by anytime. P.S. the possum left on his own, no need to come. - Dottie",
+    "received_at": "2026-05-12T17:15:00Z",
+    "category": "community",
+    "priority": 3,
+    "urgency_reason": "A warm personal note from a 22-year VIP customer offering fresh strawberries and confirming a resolved animal issue \u2014 heartfelt connection that deserves a genuine, personal reply.",
+    "needs_review": true,
+    "customer_context": "Dottie Henderson, Signal Mountain \u2014 loyal VIP customer since 2003 (38 jobs, $8,425 revenue), senior discount always, bless-her-heart cash payer, essentially family to Marshall.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip"
+    ],
+    "draft_reply": "Dottie, you just made my day! I'd love to stop by for some of those strawberries \u2014 thank you for thinking of me. And I'm so glad that possum decided to move along on his own. You're a sweetheart for letting us know. I'll swing by soon! \u2014 Skye, Possum Patrol"
+  },
+  {
+    "id": "msg_0100",
+    "sender_name": "Eleanor Faust",
+    "sender_email": "efaust@aol.com",
+    "subject": "How is your father?",
+    "body": "Skye \u2014 please tell Marshall the squirrels are gone and the eaves are quiet. Tell him I'm thinking of him and Helen, and that I sent prayers. He'd love to hear that. With love, Eleanor",
+    "received_at": "2026-05-12T18:15:00Z",
+    "category": "community",
+    "priority": 3,
+    "urgency_reason": "A warm, personal note from a 22-job loyal customer checking in on Marshall and expressing care \u2014 no service request, but genuine relationship that deserves a heartfelt reply.",
+    "needs_review": true,
+    "customer_context": "22-job loyal customer, $4,750 lifetime revenue, last service Dec 2024 \u2014 long-time friend of the Ryder family.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Eleanor, what a blessing to hear from you \u2014 and what a relief that those squirrels are finally gone and your eaves are peaceful again. I will absolutely tell Dad and Helen that you're thinking of them; that kind of care means the world to our family. Thank you for 22 years of trust, and for your prayers. With gratitude, Skye, Possum Patrol."
+  },
+  {
+    "id": "msg_0019",
+    "sender_name": "Ron at Critter Catcher Co.",
+    "sender_email": "ron@critterc.com",
+    "subject": "Your trap order is ready for pickup",
+    "body": "Skye, your order from last Friday is ready. 6x Tomahawk 608SS, 4x Havahart medium, the cones you asked for. Stop by anytime before 5. Don't forget you still have an open invoice from April ($1,247.50).",
+    "received_at": "2026-05-12T08:45:00Z",
+    "category": "invoice",
+    "priority": 4,
+    "urgency_reason": "Vendor notification of ready order and outstanding balance; no imminent due date mentioned but should be tracked.",
+    "needs_review": true,
+    "customer_context": "Ron is Possum Patrol's trap supplier at Critter Catcher Co. (Knoxville); we get a 12% bulk discount and are NET 30 terms.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Ron, thanks for the heads-up\u2014we'll grab those this week. And I'll get that April invoice squared away. Appreciate you!"
+  },
+  {
+    "id": "msg_0021",
+    "sender_name": "Carmichael Auto",
+    "sender_email": "bobby@carmichaelauto.com",
+    "subject": "Truck oil change reminder",
+    "body": "Skye - it's been 5,000 miles since your last service on the F-150. Stop by when you can. Bobby.",
+    "received_at": "2026-05-12T09:30:00Z",
+    "category": "invoice",
+    "priority": 4,
+    "urgency_reason": "Routine maintenance reminder for the work truck; no immediate deadline stated, but should be scheduled soon to keep the vehicle in service.",
+    "needs_review": true,
+    "customer_context": "Bobby at Carmichael Auto is the trusted mechanic for Possum Patrol's 2018 F-150; Marshall's notes specify synthetic oil for this vehicle.",
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": "Thanks, Bobby \u2014 we'll get that F-150 in soon for the synthetic. Marshall always said that engine's earned the good stuff. Appreciate you looking out for us!"
+  },
+  {
+    "id": "msg_0022",
+    "sender_name": "QuickBooks",
+    "sender_email": "noreply@intuit.com",
+    "subject": "Your monthly statement is ready",
+    "body": "Your April 2026 QuickBooks Online statement is now available. Log in to view your activity.",
+    "received_at": "2026-05-12T03:00:01Z",
+    "category": "invoice",
+    "priority": 4,
+    "urgency_reason": "Routine monthly financial admin \u2014 no imminent due date flagged, but should be reviewed for accuracy.",
+    "needs_review": false,
+    "customer_context": "Automated QuickBooks statement notification; Skye handles the account.",
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0031",
+    "sender_name": "Mike Poteet",
+    "sender_email": "mpoteet1985@yahoo.com",
+    "subject": "Reconsider",
+    "body": "Look. I know your dad and I had a falling out in 2019. I've changed. I have a real issue \u2014 a possum has gotten into my crawlspace and I can't find anyone else who'll come out. I'll pay double if you can come this week. - Mike Poteet",
+    "received_at": "2026-05-11T23:48:00Z",
+    "category": "out_of_scope",
+    "priority": 4,
+    "urgency_reason": "Blocklisted customer per Marshall's explicit notes; must decline politely regardless of stated willingness to pay premium.",
+    "needs_review": true,
+    "customer_context": "Mike Poteet is blocklisted after a 2019 confrontation over a reschedule fee and a retaliatory 1-star review; Marshall's script is to say we're booked out, no exceptions.",
+    "tools_used": [
+      "lookup_customer",
+      "check_vip"
+    ],
+    "draft_reply": "Mike, I appreciate you reaching out, and I hear you're in a tight spot. Unfortunately, we're booked out for the foreseeable future. I'd suggest calling around to some of the other wildlife removal shops in the area \u2014 there are a few good ones. Best of luck getting this sorted."
+  },
+  {
+    "id": "msg_0032",
+    "sender_name": "Garth Whitmore (band booking)",
+    "sender_email": "garth.whitmore@gmail.com",
+    "subject": "Possum Patrol \u2014 Bar Mitzvah May 30?",
+    "body": "Hi! I emailed back in January but I want to follow up. My nephew Jacob's bar mitzvah is May 30 at the Westin downtown. I know your band Possum Patrol is local. Are you available for a 90-min set? We'd want a mix of rock and Jewish standards. Budget is $1,800. Please let me know! - Garth",
+    "received_at": "2026-05-12T01:22:00Z",
+    "category": "out_of_scope",
+    "priority": 4,
+    "urgency_reason": "Recurring misunderstanding (annual inquiry) \u2014 needs a warm, final clarification that we're a wildlife-removal business, not a band.",
+    "needs_review": true,
+    "customer_context": "Garth Whitmore has emailed yearly since at least January, mistaking Possum Patrol for a local band; Marshall's notes say to reply nicely and clarify we're not musicians.",
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Garth! Thanks so much for thinking of us, and congratulations to Jacob on his bar mitzvah \u2014 that sounds like a wonderful celebration. We're actually a wildlife removal company (raccoons, possums, that sort of thing!), not a band, so we wouldn't be the right fit for the May 30 event. I'd recommend checking with local Chattanooga music venues or booking services for live entertainment. Best of luck with the party!"
+  },
+  {
+    "id": "msg_0033",
+    "sender_name": "Larry W.",
+    "sender_email": "lwallen@protonmail.com",
+    "subject": "Raccoons stole my crypto wallet (URGENT)",
+    "body": "I need someone to come investigate a serious situation. Raccoons broke into my detached garage Tuesday night. My hardware wallet (Ledger) was in a drawer with $47,000 in BTC and ETH on it. The wallet is gone. I have footage from my Ring camera but can't tell where they took it. I think they buried it in my yard. I need someone with experience tracking raccoon dens. PLEASE CALL ASAP. This is time-sensitive.",
+    "received_at": "2026-05-11T03:14:15Z",
+    "category": "out_of_scope",
+    "priority": 4,
+    "urgency_reason": "A real person with a genuine break-in, but the request (tracking stolen property / crypto investigation) is outside wildlife removal scope \u2014 this is a police matter, not an animal job.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Larry, I'm sorry to hear about the break-in \u2014 that's frustrating. We handle animal removal and exclusion, but tracking down stolen property is a job for law enforcement and maybe a recovery service. I'd suggest filing a police report and checking if your homeowner's insurance covers it. If you need help sealing up that garage entry point to keep raccoons out going forward, we're happy to help with that. Best of luck."
+  },
+  {
+    "id": "msg_0042",
+    "sender_name": "John 'Tubs' Buckley",
+    "sender_email": "tubs.buckley@gmail.com",
+    "subject": "Free estimate?",
+    "body": "do u do free estimates? heard from my buddy mike (mike poteet) that you might be hiring? whats the rate",
+    "received_at": "2026-05-12T15:50:00Z",
+    "category": "out_of_scope",
+    "priority": 4,
+    "urgency_reason": "This is a job inquiry mixed with a hiring question; the sender is confused about what Possum Patrol does or is testing the waters.",
+    "needs_review": true,
+    "customer_context": "No prior history; mentioned knowing Mike Poteet (no context on whether he's a regular); unclear whether this is a service request or a job inquiry.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hey Tubs, thanks for reaching out! We're a wildlife-removal service here in Chattanooga \u2014 we handle raccoons, opossums, that kind of thing. Sounds like there might be some confusion. If you've got an animal problem we can help with, we'd be happy to take a look and give you a quote. For employment questions, best to reach out to Skye directly. Let us know!"
+  },
+  {
+    "id": "msg_0046",
+    "sender_name": "Greg Liu",
+    "sender_email": "greg.liu.tn@gmail.com",
+    "subject": "Service question",
+    "body": "Hi I'd been a customer once last year. Wondering if you offer mosquito treatment for backyards. We're having an outdoor party May 25 and the yard is unusable. Quote please.",
+    "received_at": "2026-05-12T17:00:00Z",
+    "category": "out_of_scope",
+    "priority": 4,
+    "urgency_reason": "Genuine customer with prior history, but mosquito treatment is not a service Possum Patrol offers (they do wildlife removal and exclusion, not pest control spraying).",
+    "needs_review": true,
+    "customer_context": "Greg Liu is a prior customer (one job, Jan 2024, $425), but is asking for a service (mosquito spraying) Possum Patrol does not offer.",
+    "tools_used": [
+      "lookup_customer",
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Greg! Great to hear from you again. I wish we could help with the mosquito situation for your May 25 party, but that's outside what we do \u2014 we're wildlife removal specialists. For yard mosquito treatment, you'll want to reach out to a local pest-control spraying company. Hope your party is a blast!"
+  },
+  {
+    "id": "msg_0048",
+    "sender_name": "Carla Jeong",
+    "sender_email": "carla@jeong-design.com",
+    "subject": "Possum Patrol website redesign?",
+    "body": "Hi Skye \u2014 I'm a customer (you came out last September) but I'm also a web designer. I noticed your website is a little dated and not mobile-friendly. Would you be open to discussing a refresh? Could even do a trade for service. - Carla",
+    "received_at": "2026-05-12T17:30:00Z",
+    "category": "out_of_scope",
+    "priority": 4,
+    "urgency_reason": "A genuine person and loyal customer, but the request is outside pest-removal services; needs a warm human decline, not auto-trash.",
+    "needs_review": true,
+    "customer_context": "Loyal 3-job customer ($810 lifetime) who last visited March 2026; offering web-design services or trade.",
+    "tools_used": [
+      "lookup_customer"
+    ],
+    "draft_reply": "Carla, thanks so much for thinking of us \u2014 and for the kind offer! We really appreciate your loyalty as a customer. The website is on our radar, but it's not something we're actively pursuing right now. We'd love to have you back if you ever need wildlife help again!"
+  },
+  {
+    "id": "msg_0085",
+    "sender_name": "Hamilton County Health Dept",
+    "sender_email": "licenses@hamiltonhealth.gov",
+    "subject": "Vector control license renewal notice",
+    "body": "Possum Patrol Pest Control - your Tennessee Vector Control Operator license expires August 31, 2026. Please submit renewal application and continuing education proof by July 15. Renewal fee: $215.",
+    "received_at": "2026-05-12T08:00:00Z",
+    "category": "invoice",
+    "priority": 4,
+    "urgency_reason": "License renewal due date is July 15, 2026 (administrative deadline, not immediate crisis, but needs tracking to avoid lapse).",
+    "needs_review": true,
+    "customer_context": "Routine administrative renewal from Hamilton County Health Dept; no customer service issue involved.",
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Thanks for the notice. We'll get the renewal application and continuing ed docs submitted well before July 15. Appreciate the reminder!"
+  },
+  {
+    "id": "msg_0087",
+    "sender_name": "Tennessee Pest Control Association",
+    "sender_email": "members@tnpca.org",
+    "subject": "2026 Annual Conference Registration",
+    "body": "TNPCA Annual Conference - Nashville, October 14-16. Continuing education credits available. Early bird pricing ends June 30. Marshall attended every year since 2008.",
+    "received_at": "2026-05-12T09:30:00Z",
+    "category": "invoice",
+    "priority": 4,
+    "urgency_reason": "Professional membership/conference registration with an approaching early-bird deadline (June 30), but not immediately critical.",
+    "needs_review": true,
+    "customer_context": "Annual TNPCA conference\u2014Marshall was a loyal attendee; this is a routine renewal with sentimental family-business value.",
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": "Thanks for the heads-up on the 2026 conference! Marshall loved those gatherings\u2014great to keep the tradition going. We'll get registered before the early-bird window closes. Appreciate you thinking of us."
+  },
+  {
+    "id": "msg_0089",
+    "sender_name": "Chattanooga Times Free Press",
+    "sender_email": "ads@timesfreepress.com",
+    "subject": "Renewal: Local Business Spotlight ad",
+    "body": "Hi Skye, your quarterly Local Business Spotlight ad runs out July 1. Same placement (Sunday lifestyle, B7) is $640/quarter. Let me know.",
+    "received_at": "2026-05-12T10:45:00Z",
+    "category": "invoice",
+    "priority": 4,
+    "urgency_reason": "Vendor renewal notice with a July 1 deadline \u2014 administrative but not imminent enough to bump higher unless Skye wants the ad continued.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": "Thanks for the heads-up! Let me check with Skye on whether we're running the ad again this quarter and get back to you before the deadline."
+  },
+  {
+    "id": "msg_0090",
+    "sender_name": "Tom Bullard, Allstate",
+    "sender_email": "tbullard@allstate.com",
+    "subject": "Following up on policy review",
+    "body": "Skye, following up - I sent the renewal notice last month. Premium increase is 7% but I have a few ways we might be able to offset it. Free to chat next week? - Tom",
+    "received_at": "2026-05-12T11:30:00Z",
+    "category": "invoice",
+    "priority": 4,
+    "urgency_reason": "Insurance renewal due Feb 28; not yet urgent but Tom is proactively offering to help reduce the premium increase.",
+    "needs_review": true,
+    "customer_context": "Tom Bullard is Possum Patrol's Allstate agent; policy renews Feb 28 annually. Marshall's note says to get 3 quotes before renewing, so this is a reminder to do that comparison work alongside Tom's proposal.",
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": "Tom, thanks for the follow-up. We're in the thick of it this week but let's connect next week to go over those options. I'll get back to you by Wednesday to lock in a time. Appreciate you looking out for us."
+  },
+  {
+    "id": "msg_0097",
+    "sender_name": "Garth Whitmore",
+    "sender_email": "garth.whitmore@gmail.com",
+    "subject": "PLEASE - bar mitzvah is in 2 weeks",
+    "body": "Skye - I know you've never responded but I am DESPERATE. Cantor cancelled. My nephew is heartbroken. I'm prepared to offer $3,000 for a 60-minute Possum Patrol set. Please. Just one song? - Garth",
+    "received_at": "2026-05-12T17:30:00Z",
+    "category": "out_of_scope",
+    "priority": 4,
+    "urgency_reason": "Sender believes Possum Patrol is a musical band, not a wildlife-removal business; needs polite clarification.",
+    "needs_review": true,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": "Hi Garth \u2013 I think there's been a mix-up! Possum Patrol is a wildlife-removal company here in Chattanooga, not a band. I'm so sorry to hear about your cantor falling through; I hope you find a great performer for your nephew's big day. Best of luck!"
+  },
+  {
+    "id": "msg_0099",
+    "sender_name": "Larry W.",
+    "sender_email": "lwallen@protonmail.com",
+    "subject": "Re: Raccoons stole my crypto wallet",
+    "body": "Following up. The raccoons have NOT returned the Ledger. I now believe they may be working with my ex-wife. Please call. This is a federal matter now.",
+    "received_at": "2026-05-12T18:00:00Z",
+    "category": "out_of_scope",
+    "priority": 4,
+    "urgency_reason": "Non-actionable request from a sender with delusional framing; needs human judgment before any response.",
+    "needs_review": true,
+    "customer_context": "New sender, no prior records; email suggests confusion about Possum Patrol's scope and possible mental-health concern.",
+    "tools_used": [],
+    "draft_reply": "Hi Larry, thanks for reaching out. We handle wildlife removal\u2014raccoons in attics, under decks, that kind of thing. For concerns about personal property or legal matters, you'd want to contact local law enforcement or an attorney. Best of luck sorting it out."
+  },
+  {
+    "id": "msg_0013",
+    "sender_name": "SEO Marketing Pro",
+    "sender_email": "growth@seogrowthpro.co",
+    "subject": "Re: Quick question about your Google rankings",
+    "body": "Hi there, I noticed Possum Patrol is ranking on page 2 for 'pest control Chattanooga'. We've helped 47+ pest control companies move to page 1 in 90 days. Worth a 15-min chat? \u2014 Tyler",
+    "received_at": "2026-05-12T03:11:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited cold sales pitch for SEO services; no business inquiry or customer issue.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0014",
+    "sender_name": "Anthony from MerchantSync",
+    "sender_email": "anthony@merchantsync.io",
+    "subject": "Reduce your credit card processing fees by 38%",
+    "body": "Skye, We've helped local service businesses just like yours save $400-$1,200/month on payment processing. Would you have 10 minutes this week to see if you qualify?",
+    "received_at": "2026-05-12T04:02:21Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited SaaS sales pitch with no relevance to Possum Patrol's operations.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0015",
+    "sender_name": "GrowthHacker AI",
+    "sender_email": "noreply@growthhackerai.com",
+    "subject": "\ud83d\udcbc [FREE] AI Tools for Pest Control Pros",
+    "body": "Discover the 7 AI tools every modern pest control business is using in 2026. Free PDF: just click here ===> [link]",
+    "received_at": "2026-05-12T04:44:09Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited marketing cold pitch with no genuine service request or customer relationship.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0016",
+    "sender_name": "BizQuotePros",
+    "sender_email": "leads@bizquotepros.com",
+    "subject": "Verified leads in your area - $19 each",
+    "body": "Hot leads for pest control jobs in Chattanooga and Hamilton County. Real homeowners actively looking. First 10 leads free for new customers. Reply YES to start.",
+    "received_at": "2026-05-12T05:00:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited lead-gen sales pitch with no relevance to Possum Patrol's operations.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0017",
+    "sender_name": "ProServiceCRM",
+    "sender_email": "sales@proservicecrm.com",
+    "subject": "Stop losing leads \u2014 try our pest control CRM",
+    "body": "Our pest-control-specific CRM has helped 800+ small operators double their close rate. Free 14-day trial. Schedule a demo: [link]",
+    "received_at": "2026-05-12T05:30:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited SaaS sales pitch with no relevance to Possum Patrol's operations or customers.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0018",
+    "sender_name": "TruckWrap Discount",
+    "sender_email": "deals@truckwrapdiscount.com",
+    "subject": "Wrap your truck for under $1,800 this month",
+    "body": "Premium vinyl truck wraps. Lifetime warranty. Free design consultation. Local Chattanooga shop. Quote in 24hr.",
+    "received_at": "2026-05-12T06:22:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited cold marketing pitch with no relevance to wildlife removal services.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "check_vip",
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0043",
+    "sender_name": "ServiceTitan Sales",
+    "sender_email": "demos@servicetitan.com",
+    "subject": "Demo follow-up",
+    "body": "Skye, following up from our call last month. Ready to talk through next steps on ServiceTitan for Possum Patrol?",
+    "received_at": "2026-05-10T10:00:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited SaaS sales pitch with a false premise of a prior call.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0050",
+    "sender_name": "WingedHelper LLC",
+    "sender_email": "support@wingedhelper.ai",
+    "subject": "Try our AI receptionist - first 30 days free",
+    "body": "Hi! WingedHelper is an AI receptionist for service businesses. Answer every customer call, even at 2am. 30-day free trial. Cancel anytime. Sign up: [link]",
+    "received_at": "2026-05-12T18:10:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited SaaS pitch with no relevance to Possum Patrol's operations or customers.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0075",
+    "sender_name": "InvoiceAce",
+    "sender_email": "sales@invoiceace.app",
+    "subject": "Get paid 2x faster",
+    "body": "Possum Patrol \u2014 service businesses using InvoiceAce get paid 2.4x faster on average. Free 14-day trial. Click here to start.",
+    "received_at": "2026-05-12T04:00:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited SaaS marketing pitch with no relevance to current operations or customer relationships.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0076",
+    "sender_name": "Verizon Business",
+    "sender_email": "offers@verizonbusiness.com",
+    "subject": "Upgrade your fleet plan and save",
+    "body": "Small business fleet plans starting at $39/line. Switch from your current carrier and get a $500 statement credit. Limited time.",
+    "received_at": "2026-05-12T04:15:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited cold sales pitch from a telecom vendor with no relevance to Possum Patrol's business.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0077",
+    "sender_name": "AISiteBuilderPro",
+    "sender_email": "hi@aisitebuilderpro.com",
+    "subject": "Your website needs an AI makeover",
+    "body": "Just analyzed possumpatrol.com \u2014 it's scoring 38/100 on modern UX. We can rebuild it with AI in 48 hours for $1,500. Free preview: just reply YES.",
+    "received_at": "2026-05-12T04:30:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited cold-sales pitch for web services; no legitimate business request.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0078",
+    "sender_name": "Renewable Energy of Tennessee",
+    "sender_email": "info@renewabletn.com",
+    "subject": "Save $1,200+ on commercial solar",
+    "body": "Local Chattanooga solar installer offering free consults for small business. Our customers save an average of $1,247/yr on energy bills. Reply for details.",
+    "received_at": "2026-05-12T04:45:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited cold sales pitch from a solar company unrelated to wildlife removal.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0079",
+    "sender_name": "PestProMarketing",
+    "sender_email": "leads@pestpromarketing.io",
+    "subject": "Convert 3x more pest control leads",
+    "body": "We specialize in pest control marketing. 47% of our customers double revenue in 6 months. Free audit available, no commitment. Schedule here.",
+    "received_at": "2026-05-12T05:00:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited cold sales pitch from a marketing vendor with no relationship to Possum Patrol.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0080",
+    "sender_name": "Stripe",
+    "sender_email": "updates@stripe.com",
+    "subject": "Your business is eligible for Stripe Capital",
+    "body": "Based on your account history, Possum Patrol is pre-approved for up to $35,000 in Stripe Capital financing. Click to see your offer.",
+    "received_at": "2026-05-12T05:15:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited financial services marketing; no action required from Skye.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0081",
+    "sender_name": "Andrew at LeadFlow",
+    "sender_email": "andrew@leadflow.work",
+    "subject": "saw your truck on 153, had to reach out",
+    "body": "Hey - drove behind your truck on Hwy 153 yesterday. Loved the branding. We help pest control companies like yours generate 30-50 hot leads/month from social. Worth a coffee?",
+    "received_at": "2026-05-12T05:30:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited cold-sales pitch from a lead-gen SaaS vendor; no service request or customer relationship.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0082",
+    "sender_name": "YellowPages Renewals",
+    "sender_email": "renewals@ypages.com",
+    "subject": "FINAL NOTICE - listing renewal",
+    "body": "This is your final notice. Your YellowPages business listing will expire June 1, 2026. Renew today for only $89/yr to keep your discoverability.",
+    "received_at": "2026-05-12T05:45:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited vendor renewal notice; YellowPages is a cold sales pitch, not a genuine customer or operational need.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0083",
+    "sender_name": "Kevin from BuyMyCompany",
+    "sender_email": "kevin@buymycompany.us",
+    "subject": "Ready to sell? Confidential offer",
+    "body": "Hi Skye, my firm acquires successful family pest control businesses across the Southeast. Discreet, fast, all-cash offers up to 5x EBITDA. Open to a conversation?",
+    "received_at": "2026-05-12T06:00:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited business acquisition pitch with no legitimate service or customer relationship.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "check_vip"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0084",
+    "sender_name": "ZenScheduler",
+    "sender_email": "hello@zenscheduler.com",
+    "subject": "Try our scheduling software free",
+    "body": "Built for field service businesses. Auto-routing, customer notifications, integrated payments. 30-day free trial.",
+    "received_at": "2026-05-12T06:15:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited SaaS sales pitch with no relevance to Possum Patrol's operations or customers.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [
+      "get_pricing"
+    ],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0088",
+    "sender_name": "FedEx",
+    "sender_email": "trackingupdate@fedex.com",
+    "subject": "Your package was delivered",
+    "body": "Tracking #7724-5589-1023 was delivered to 91 Industrial Way, Soddy-Daisy TN 37379 on May 11 at 4:32pm. Signed for by: B. Carmichael",
+    "received_at": "2026-05-12T10:15:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Automated shipping notification with no action needed from Possum Patrol.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0092",
+    "sender_name": "Brenda Pinkerton",
+    "sender_email": "bpinkerton@hixsonschools.k12.tn.us",
+    "subject": "PTA referral request",
+    "body": "Hi! I'm with the Hixson Elementary PTA. We're putting together a list of trusted local service businesses for our spring newsletter. Would Possum Patrol like to be included? Free placement, just need a logo and 50-word blurb.",
+    "received_at": "2026-05-12T16:15:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Unsolicited marketing/directory request with no service inquiry or customer relationship.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  },
+  {
+    "id": "msg_0098",
+    "sender_name": "Anonymous",
+    "sender_email": "shadow.user.2026@protonmail.com",
+    "subject": "the truth about armadillos",
+    "body": "I have important information about the armadillo population in Hamilton County that the government does not want you to know. Please respond if interested. I have documents.",
+    "received_at": "2026-05-12T17:45:00Z",
+    "category": "spam",
+    "priority": 5,
+    "urgency_reason": "Anonymous unsolicited email with no service request; appears to be conspiracy-theory messaging unrelated to pest control.",
+    "needs_review": false,
+    "customer_context": null,
+    "tools_used": [],
+    "draft_reply": null
+  }
+]

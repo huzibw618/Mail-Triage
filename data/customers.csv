@@ -1,0 +1,36 @@
+customer_id,name,address,phone,email,first_service_date,last_service_date,total_jobs,total_revenue_usd,notes
+1,Dottie Henderson,"4421 Mountain View Dr, Signal Mountain TN",4235550114,,2003-07-12,2025-09-30,38,8425.00,Senior discount always. No bees. VIP per Marshall.
+2,Tony Marchetti,"100 Lookout St, Lookout Mountain TN",4235550199,tony@lookoutgrille.com,2021-03-01,2026-04-30,52,23400.00,Commercial monthly $450. VIP.
+3,Pastor Jim Calloway,"22 Oak Ave, Soddy-Daisy TN",4235550143,mary.calloway@fbsoddy.org,2010-05-15,2026-02-11,17,3260.00,Church NET 30. 10% off.
+4,Linda Krell (River Oaks HOA),"800 River Oaks Blvd, Hixson TN",4235550178,lkrell@riveroakshoa.com,2017-09-01,2026-04-01,36,18900.00,Quarterly perimeter. DO NOT REPLY ALL.
+5,Dr. Wendy Oyelaya,"1411 Hixson Pike, Hixson TN",4235550211,wendy@hixsonvet.com,2019-02-04,2026-03-14,29,9870.00,VET CLINIC. Best customer. 15% off.
+6,Mike Poteet,"99 Unknown Ln, Red Bank TN",4235550101,,2017-11-03,2019-08-22,4,640.00,"BLOCKLIST: do not serve, see Marshall's notes"
+7,Susan Whitfield,"22 Glenwood Dr, Chattanooga TN",4235550155,susan.w@gmail.com,2022-04-10,2024-07-19,3,725.00,
+8,Bobby Carmichael,"71 Industrial Way, Soddy-Daisy TN",4235550100,,2018-01-15,2025-12-01,12,2880.00,"Carmichael Auto. Trades services for oil changes sometimes."
+9,Janet Liu,"1900 Riverfront Pkwy, Chattanooga TN",4235550133,janet.liu.tn@outlook.com,2024-06-22,2025-11-14,2,540.00,
+10,Travis Wynn,"4500 Brainerd Rd, Chattanooga TN",4235550140,twynn@gmail.com,2021-08-30,2026-01-22,5,1450.00,Pays slow but pays.
+11,Margaret O'Connell,"22 Springbrook Ct, Hixson TN",4235550166,,2019-05-15,2023-10-04,7,1820.00,
+12,Sasha Mendoza,"1004 Forest Ave, Chattanooga TN",4235550177,smendoza@protonmail.com,2023-11-04,2026-04-12,4,1140.00,
+13,Bill Hargraves,"77 Mowbray Pike, Soddy-Daisy TN",4235550144,,2014-03-21,2024-06-30,11,2870.00,Friend of Marshall's from way back. Discount when asked.
+14,Carla Jeong,"500 Frazier Ave, Chattanooga TN",4235550188,carla@jeong-design.com,2024-02-14,2026-03-22,3,810.00,
+15,The River Lodge B&B,"909 Tennessee Ave, Lookout Mountain TN",4235550122,bookings@riverlodgebnb.com,2022-08-10,2026-04-15,9,5400.00,Commercial. Owner Marsha is great.
+16,Reverend Donna Pell,"15 Hill St, Red Bank TN",4235550129,rev.donna@redbankumc.org,2020-04-04,2025-08-20,8,1240.00,Church. 10% off.
+17,Hank Albrecht,"43 Stuart Rd, Hixson TN",4235550103,hank.a@gmail.com,2025-03-19,2025-03-19,1,275.00,New customer 2025.
+18,Tina Ryder (no relation),"81 Forest Plaza, Chattanooga TN",4235550118,,2018-09-12,2022-04-30,2,425.00,No relation to Marshall despite name.
+19,Pavlova Bakery,"212 Frazier Ave, Chattanooga TN",4235550155,info@pavlovabakery.com,2023-06-22,2026-04-25,14,5600.00,Commercial monthly $400.
+20,Greg Liu,"4 Mountain Pass, Signal Mountain TN",4235550167,greg.liu.tn@gmail.com,2024-01-15,2024-01-15,1,425.00,
+21,Lucy Bramham,"77 Sunset Dr, Soddy-Daisy TN",,,2017-04-12,2018-11-01,2,360.00,Old customer no email
+22,Cody Vasquez,"15 Sycamore St, Red Bank TN",4235550109,cvasquez22@gmail.com,2025-09-19,2026-03-04,3,890.00,
+23,Eleanor Faust,"22 Walnut Ave, Chattanooga TN",4235550114,efaust@aol.com,2008-05-12,2024-12-12,22,4750.00,Long-time customer.
+24,Brian Hodges,"99 Cedar Ridge Dr, Hixson TN",4235550190,bhodges@bellsouth.net,2022-02-01,2026-02-28,6,1680.00,
+25,Marcus Wright (Solo Cup Brewing),"450 Manufacturers Rd, Chattanooga TN",4235550100,marcus@solocupbrewing.com,2024-08-15,2026-04-01,5,3250.00,Brewery commercial account. Wants quarterly.
+26,Patricia Yates,"33 Patten Pkwy, Chattanooga TN",4235550155,,2014-07-22,2023-09-18,9,2160.00,
+27,Marsha Beauchamp,"21 Skyline Dr, Lookout Mountain TN",4235550111,marsha@skylinerealty.com,2023-04-04,2026-03-30,4,1880.00,Realtor refers us a lot.
+28,Travis Wynn (work address),"22 Industrial Blvd, Chattanooga TN",4235550140,,2025-09-12,2025-09-12,1,400.00,DUPLICATE? Same Travis as #10?
+29,Felicia Holcomb,"4 Crestwood Dr, Hixson TN",4235550144,fholcomb@gmail.com,2024-11-04,2026-04-08,3,925.00,
+30,Joseph "Big Joe" Pickett,"1 Tall Oak Ln, Soddy-Daisy TN",4235550101,,2016-08-15,2021-04-22,5,1100.00,Calls every spring for armadillos.
+31,Vivian Crowder,"77 Magnolia Ct, Red Bank TN",4235550138,viv.crowder@yahoo.com,2025-01-29,2026-02-12,2,540.00,
+32,Aiden Pearce,"5 Watercrest Dr, Chattanooga TN",4235550101,aiden.p@outlook.com,2024-04-10,2024-04-10,1,200.00,Quote-only. Never booked.
+33,Sandeep Rao,"99 Birchwood Pike, Hixson TN",4235550174,sandeep.rao@gmail.com,2024-09-04,2026-03-28,2,675.00,
+34,Tabitha Greene,"22 Maple Hollow Ct, Signal Mountain TN",4235550155,tabby.g@gmail.com,2020-06-15,2025-08-01,9,3120.00,VIP-ish. Big house lots of work.
+35,Curtis Banks,"4 Lookout Dr, Lookout Mountain TN",4235550140,,2019-03-22,2024-09-15,6,1840.00,
