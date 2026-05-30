@@ -68,7 +68,7 @@ echo "ANTHROPIC_API_KEY=your_key_here" > .env
 
 # 3. Place data files in data/
 #    inbox.json, customers.csv, services.md, notes_from_marshall.txt
-
+source  .venv/bin/activate
 # 4. Run the triage pipeline
 python pipeline.py          # re-run with --force to re-process cached emails
 
